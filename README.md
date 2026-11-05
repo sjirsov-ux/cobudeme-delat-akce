@@ -1,0 +1,1 @@
+# cobudeme-delat-akce
