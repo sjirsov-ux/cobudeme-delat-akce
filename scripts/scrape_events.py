@@ -141,6 +141,15 @@ def main():
         except Exception as exc:
             failures.append(f"{url}: {exc}")
             print(f"Zdroj selhal {url}: {exc}", file=sys.stderr)
+    # Keep user-curated entries alongside scraped listings so the daily refresh cannot erase them.
+    manual_path = ROOT / "events_manual.json"
+    if manual_path.exists():
+        try:
+            for event in json.loads(manual_path.read_text(encoding="utf-8")).get("events", []):
+                if isinstance(event, dict) and event.get("id") and event.get("dateStart"):
+                    gathered[event["id"]] = event
+        except (json.JSONDecodeError, OSError) as exc:
+            print(f"Ručně spravované akce se nepodařilo načíst: {exc}", file=sys.stderr)
     # If a listing has both a date-only card and a timed detail card, keep the timed one.
     by_day = {}
     for event in gathered.values():
