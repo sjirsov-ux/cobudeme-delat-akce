@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:47:21.149Z",
+  "updatedAt": "2026-11-05T17:51:43.497Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -826,7 +826,9 @@
       "dateStart": "2026-12-06T11:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/a6397eacc7a13b3f.jpg",
+      "imageGenerated": true
     },
     {
       "id": "6bb59adfc6b9b03b",
@@ -837,7 +839,9 @@
       "dateStart": "2026-12-06T16:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6bb59adfc6b9b03b.jpg",
+      "imageGenerated": true
     },
     {
       "id": "c24ac14422f52d66",
@@ -848,7 +852,9 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17"
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c24ac14422f52d66.jpg",
+      "imageGenerated": true
     },
     {
       "id": "549d7936ce7b0ffa",
@@ -859,7 +865,9 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/549d7936ce7b0ffa.jpg",
+      "imageGenerated": true
     },
     {
       "id": "83296a140c85f32c",
