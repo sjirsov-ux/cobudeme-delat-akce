@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:40:21.671Z",
+  "updatedAt": "2026-11-05T17:45:16.897Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -759,7 +759,9 @@
       "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
-      "dateEnd": "2026-12-31T00:00:00+01:00"
+      "dateEnd": "2026-12-31T00:00:00+01:00",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/05eea4bcf1c5212f.jpg",
+      "imageGenerated": true
     },
     {
       "id": "christmas-party-studentska-unie-ujep-usti-2026-12-02",
@@ -771,7 +773,9 @@
       "dateEnd": "2026-12-03T04:00:00+01:00",
       "sourceUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
       "ticketUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
-      "description": "Vánoční party Studentské unie UJEP. Vstup 18+; vstupenky jsou v předprodeji na NFCtron."
+      "description": "Vánoční party Studentské unie UJEP. Vstup 18+; vstupenky jsou v předprodeji na NFCtron.",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/christmas-party-studentska-unie-ujep-usti-2026-12-02.jpg",
+      "imageGenerated": true
     },
     {
       "id": "6f34e8447c2a2f3e",
@@ -782,7 +786,9 @@
       "dateStart": "2026-12-03T10:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6f34e8447c2a2f3e.jpg",
+      "imageGenerated": true
     },
     {
       "id": "fd2e2f8c8176551b",
@@ -794,7 +800,9 @@
       "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
       "ticketUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
-      "dateEnd": "2026-12-06T00:00:00+01:00"
+      "dateEnd": "2026-12-06T00:00:00+01:00",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/fd2e2f8c8176551b.jpg",
+      "imageGenerated": true
     },
     {
       "id": "361c8dd83d11c823",
