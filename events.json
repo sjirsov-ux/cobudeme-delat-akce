@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:45:47.499Z",
+  "updatedAt": "2026-11-05T16:51:19.686Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -390,7 +390,9 @@
       "dateStart": "2026-11-14T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://sanewellbeing.com/",
-      "ticketUrl": "https://sanewellbeing.com/"
+      "ticketUrl": "https://sanewellbeing.com/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/553592e7c9e8356b.jpg",
+      "imageGenerated": true
     },
     {
       "id": "70f5969fe2625eec",
@@ -401,7 +403,9 @@
       "dateStart": "2026-11-14T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
-      "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/"
+      "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/70f5969fe2625eec.jpg",
+      "imageGenerated": true
     },
     {
       "id": "c0694795c28292ee",
@@ -413,7 +417,9 @@
       "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "dateEnd": "2026-11-16T00:00:00+01:00"
+      "dateEnd": "2026-11-16T00:00:00+01:00",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c0694795c28292ee.jpg",
+      "imageGenerated": true
     },
     {
       "id": "16480e2b81d66fe3",
@@ -424,7 +430,9 @@
       "dateStart": "2026-11-18T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/16480e2b81d66fe3.jpg",
+      "imageGenerated": true
     },
     {
       "id": "047e4b722f6ef11d",
