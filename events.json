@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:58:14.110Z",
+  "updatedAt": "2026-11-05T15:03:40.953Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -10,7 +10,9 @@
       "dateStart": "2026-11-05T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/50cdb04c3b0fe257.jpg",
+      "imageGenerated": true
     },
     {
       "id": "d55723cd5e997ae6",
@@ -87,7 +89,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/"
+      "ticketUrl": "https://www.konzervatorteplice.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/2326c679888ac9c0.jpg",
+      "imageGenerated": true
     },
     {
       "id": "8ef8d0e4fdbffe5d",
@@ -98,7 +102,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/doubravka",
-      "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka"
+      "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/8ef8d0e4fdbffe5d.jpg",
+      "imageGenerated": true
     },
     {
       "id": "5ae0fc0740d7da55",
@@ -109,7 +115,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07"
+      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5ae0fc0740d7da55.jpg",
+      "imageGenerated": true
     },
     {
       "id": "1d38cee968fb5415",
