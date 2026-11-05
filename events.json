@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:24:58.637Z",
+  "updatedAt": "2026-11-05T15:32:15.381Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -286,7 +286,9 @@
       "dateStart": "2026-11-10T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10"
+      "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/3ef0b8454bb71a0e.jpg",
+      "imageGenerated": true
     },
     {
       "id": "c5dcf875ba9e37c2",
@@ -297,7 +299,9 @@
       "dateStart": "2026-11-10T18:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c5dcf875ba9e37c2.jpg",
+      "imageGenerated": true
     },
     {
       "id": "414d133b531fc60d",
@@ -308,7 +312,9 @@
       "dateStart": "2026-11-12T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic"
+      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/414d133b531fc60d.jpg",
+      "imageGenerated": true
     },
     {
       "id": "7b73083b8f0826fe",
@@ -319,7 +325,9 @@
       "dateStart": "2026-11-12T16:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/7b73083b8f0826fe.jpg",
+      "imageGenerated": true
     },
     {
       "id": "4075edb795ad1bb2",
