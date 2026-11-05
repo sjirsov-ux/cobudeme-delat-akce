@@ -51,7 +51,7 @@ def parse_date(text: str, now: datetime):
 def make_event(title, city, start, end, venue, source_url, image_url="", description=""):
     key = f"{title.casefold()}|{city}|{start.isoformat()}"
     event = {"id": hashlib.sha1(key.encode()).hexdigest()[:16], "title": title, "category": category_for(title + " " + description),
-             "venue": venue or city, "city": city, "dateStart": start.isoformat(), "sourceUrl": source_url, "ticketUrl": source_url}
+             "venue": venue or city, "city": city, "dateStart": start.isoformat(), "timeUnknown": start.hour == 0 and start.minute == 0, "sourceUrl": source_url, "ticketUrl": source_url}
     if end: event["dateEnd"] = end.isoformat()
     if image_url: event["imageUrl"] = image_url
     if description: event["description"] = description[:400]
@@ -108,7 +108,7 @@ def extract_visit_teplice(soup, page_url, now):
         if not start or start < now: continue
         after = text.split(title, 1)[-1]
         match = re.search(r"((?:Krušnohorské divadlo|Dům kultury|Zahradní dům|Kino Květen|Botanická zahrada|regionální knihovna|Místo konání DDM|sportovní hala|Kulturní centrum)[^|]{0,100})", after, re.I)
-        venue = clean(match.group(1)).strip(" .,-") if match else ""
+        venue = clean(match.group(1)).replace("Více o akci", "").strip(" .,-") if match else ""
         image = card.find("img")
         image_url = urljoin(page_url, image.get("src") or image.get("data-src") or "") if image else ""
         found.append(make_event(title, "Teplice", start, end, venue, urljoin(page_url, link["href"]), image_url))
@@ -141,7 +141,18 @@ def main():
         except Exception as exc:
             failures.append(f"{url}: {exc}")
             print(f"Zdroj selhal {url}: {exc}", file=sys.stderr)
-    events = sorted(gathered.values(), key=lambda item: item["dateStart"])
+    # If a listing has both a date-only card and a timed detail card, keep the timed one.
+    by_day = {}
+    for event in gathered.values():
+        day_key = (event["title"].casefold(), event["city"], event["dateStart"][:10])
+        previous = by_day.get(day_key)
+        if previous is None:
+            by_day[day_key] = event
+        elif previous.get("timeUnknown") and not event.get("timeUnknown"):
+            by_day[day_key] = event
+        elif previous.get("timeUnknown") == event.get("timeUnknown") and len(event.get("venue", "")) > len(previous.get("venue", "")):
+            by_day[day_key] = event
+    events = sorted(by_day.values(), key=lambda item: item["dateStart"])
     if not events and FEED_PATH.exists():
         print("Bez nalezených akcí; ponechávám poslední feed.", file=sys.stderr)
         return 0
