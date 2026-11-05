@@ -1,13 +1,14 @@
 {
-  "updatedAt": "2026-11-05T11:11:24.832904+01:00",
+  "updatedAt": "2026-11-05T11:13:16.662641+01:00",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
       "title": "2. ABONENTNÍ KONCERT CYKLU A",
       "category": "concert",
-      "venue": "Dům kultury - Koncertní sál Více o akci",
+      "venue": "Dům kultury - Koncertní sál",
       "city": "Teplice",
       "dateStart": "2026-11-05T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/"
     },
@@ -18,19 +19,10 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-06T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
       "dateEnd": "2026-12-06T00:00:00+01:00"
-    },
-    {
-      "id": "ea398d64879bb08b",
-      "title": "Lampionový průvod",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-06T00:00:00+01:00",
-      "sourceUrl": "https://www.ddmteplice.cz/",
-      "ticketUrl": "https://www.ddmteplice.cz/"
     },
     {
       "id": "10ba51f2b80a06ea",
@@ -39,6 +31,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-06T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06",
       "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06"
     },
@@ -46,9 +39,10 @@
       "id": "131d3f952c223c4f",
       "title": "Lampionový průvod",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-11-06T16:30:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou"
     },
@@ -56,9 +50,10 @@
       "id": "5d71e1ccf53ac250",
       "title": "CHARITATIVNÍ MÓDNÍ PŘEHLÍDKA",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Malý sál Více o akci",
+      "venue": "Krušnohorské divadlo - Malý sál",
       "city": "Teplice",
       "dateStart": "2026-11-06T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/"
     },
@@ -69,6 +64,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.uporiny.cz/",
       "ticketUrl": "https://www.uporiny.cz/"
     },
@@ -79,6 +75,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
     },
@@ -89,6 +86,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/doubravka",
       "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka"
     },
@@ -99,6 +97,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
       "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07"
     },
@@ -109,6 +108,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
       "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07"
     },
@@ -119,6 +119,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
       "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07"
     },
@@ -129,6 +130,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-07T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
       "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07"
     },
@@ -139,6 +141,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-07T12:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez"
     },
@@ -146,9 +149,10 @@
       "id": "7c22bfc81a0019d2",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY – 40 let",
       "category": "other",
-      "venue": "Dům kultury Více o akci",
+      "venue": "Dům kultury",
       "city": "Teplice",
       "dateStart": "2026-11-07T14:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/"
     },
@@ -159,6 +163,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-07T16:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
       "dateEnd": "2026-11-08T00:00:00+01:00"
@@ -170,6 +175,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-08T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic"
     },
@@ -177,9 +183,10 @@
       "id": "4e01c41ba18f3cb5",
       "title": "LUCIE BÍLÁ–RECITÁL",
       "category": "concert",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-08T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/"
     },
@@ -187,9 +194,10 @@
       "id": "406b8440db894f9a",
       "title": "LINDA.",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-09T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/linda/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/linda/"
     },
@@ -200,6 +208,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
       "dateEnd": "2027-04-18T00:00:00+02:00"
@@ -211,6 +220,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
       "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10"
     },
@@ -221,6 +231,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10",
       "ticketUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10"
     },
@@ -231,6 +242,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
       "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10"
     },
@@ -238,9 +250,10 @@
       "id": "c5dcf875ba9e37c2",
       "title": "MARTIN LOEW - JAPONSKO",
       "category": "other",
-      "venue": "Kino Květen, přednáška Více o akci",
+      "venue": "Kino Květen, přednáška",
       "city": "Teplice",
       "dateStart": "2026-11-10T18:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/"
     },
@@ -251,6 +264,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-12T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic"
     },
@@ -258,9 +272,10 @@
       "id": "7b73083b8f0826fe",
       "title": "Ruce pryč",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-11-12T16:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc"
     },
@@ -268,9 +283,10 @@
       "id": "4075edb795ad1bb2",
       "title": "LORDI",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-12T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/"
     },
@@ -278,9 +294,10 @@
       "id": "e00102d3ecc34f71",
       "title": "Kinopohádka: Shrek",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-11-13T15:30:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek"
     },
@@ -288,9 +305,10 @@
       "id": "d4ba38495d5fdf8c",
       "title": "Noc oživlých příběhů",
       "category": "other",
-      "venue": "regionální knihovna Více o akci",
+      "venue": "regionální knihovna",
       "city": "Teplice",
       "dateStart": "2026-11-13T20:30:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
       "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
@@ -298,9 +316,10 @@
       "id": "0518fa3b08ddce62",
       "title": "Zdobení adventních věnců",
       "category": "other",
-      "venue": "regionální knihovna Teplice Více o akci",
+      "venue": "regionální knihovna Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-14T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
       "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
@@ -308,9 +327,10 @@
       "id": "553592e7c9e8356b",
       "title": "Sané day",
       "category": "other",
-      "venue": "regionální knihovna Teplice Více o akci",
+      "venue": "regionální knihovna Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-14T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://sanewellbeing.com/",
       "ticketUrl": "https://sanewellbeing.com/"
     },
@@ -321,6 +341,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-14T14:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
       "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/"
     },
@@ -328,9 +349,10 @@
       "id": "c0694795c28292ee",
       "title": "Mistrovství ČR žáků Judo",
       "category": "other",
-      "venue": "sportovní hala Teplice Více o akci",
+      "venue": "sportovní hala Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-15T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "dateEnd": "2026-11-16T00:00:00+01:00"
@@ -339,9 +361,10 @@
       "id": "16480e2b81d66fe3",
       "title": "2. ABONENTNÍ KONCERT CYKLU K",
       "category": "concert",
-      "venue": "Zahradní dům Více o akci",
+      "venue": "Zahradní dům",
       "city": "Teplice",
       "dateStart": "2026-11-18T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/"
     },
@@ -349,9 +372,10 @@
       "id": "047e4b722f6ef11d",
       "title": "RUDY LINKA a GIL GOLDSTEIN",
       "category": "other",
-      "venue": "Dům kultury - Koncertní sál Více o akci",
+      "venue": "Dům kultury - Koncertní sál",
       "city": "Teplice",
       "dateStart": "2026-11-19T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/"
     },
@@ -359,9 +383,10 @@
       "id": "46e4449c9bbcc12a",
       "title": "Velká výstava orchidejí",
       "category": "garden",
-      "venue": "Botanická zahrada Více o akci",
+      "venue": "Botanická zahrada",
       "city": "Teplice",
       "dateStart": "2026-11-20T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
       "ticketUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
       "dateEnd": "2026-11-29T00:00:00+01:00"
@@ -373,6 +398,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-20T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.doubravka.cz/",
       "ticketUrl": "https://www.doubravka.cz/"
     },
@@ -383,6 +409,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-20T15:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet"
     },
@@ -393,6 +420,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-21T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
     },
@@ -403,6 +431,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-21T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.galerieteplice.cz/",
       "ticketUrl": "https://www.galerieteplice.cz/"
     },
@@ -413,6 +442,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-21T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
     },
@@ -420,9 +450,10 @@
       "id": "51cd7a3cac1e3290",
       "title": "1. ABONENTNÍ KONCERT CYKLU D",
       "category": "concert",
-      "venue": "Dům kultury - Koncertní sál Více o akci",
+      "venue": "Dům kultury - Koncertní sál",
       "city": "Teplice",
       "dateStart": "2026-11-21T10:30:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/"
     },
@@ -430,9 +461,10 @@
       "id": "150339cb570185d1",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
-      "venue": "Dům kultury Více o akci",
+      "venue": "Dům kultury",
       "city": "Teplice",
       "dateStart": "2026-11-21T14:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/"
     },
@@ -443,6 +475,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-11-23T17:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/"
     },
@@ -450,9 +483,10 @@
       "id": "60269dee03993a78",
       "title": "Definice .....",
       "category": "other",
-      "venue": "Zahradní dům Více o akci",
+      "venue": "Zahradní dům",
       "city": "Teplice",
       "dateStart": "2026-11-24T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
     },
@@ -460,9 +494,10 @@
       "id": "71d99e7d1c68c396",
       "title": "DEFbrass",
       "category": "other",
-      "venue": "Zahradní dům Více o akci",
+      "venue": "Zahradní dům",
       "city": "Teplice",
       "dateStart": "2026-11-24T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/"
     },
@@ -470,9 +505,10 @@
       "id": "ab6ca50bc974be9c",
       "title": "SOUBOJ KLAVÍRŮ",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-25T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/"
     },
@@ -480,9 +516,10 @@
       "id": "2a6d8281df413a60",
       "title": "Karel Kryl",
       "category": "other",
-      "venue": "Kulturní centrum Zahálka Více o akci",
+      "venue": "Kulturní centrum Zahálka",
       "city": "Teplice",
       "dateStart": "2026-11-26T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
       "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ"
     },
@@ -490,9 +527,10 @@
       "id": "5a54b4a240a71971",
       "title": "Zdobení adventních věnců",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-11-26T17:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi"
     },
@@ -500,9 +538,10 @@
       "id": "a9db363f01791f75",
       "title": "2. ABONENTNÍ KONCERT CYKLU B",
       "category": "concert",
-      "venue": "Dům kultury - Koncertní sál Více o akci",
+      "venue": "Dům kultury - Koncertní sál",
       "city": "Teplice",
       "dateStart": "2026-11-26T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/"
     },
@@ -510,9 +549,10 @@
       "id": "78ea7f6b0238fc51",
       "title": "Vánoční jarmark",
       "category": "garden",
-      "venue": "regionální knihovna Více o akci",
+      "venue": "regionální knihovna",
       "city": "Teplice",
       "dateStart": "2026-11-27T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
       "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
@@ -520,9 +560,10 @@
       "id": "15c2b03742454f02",
       "title": "Výroba krmítek",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-11-27T15:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek"
     },
@@ -530,9 +571,10 @@
       "id": "fc701300bcda0bbe",
       "title": "PLES ZUŠ – 100 LET",
       "category": "party",
-      "venue": "Krušnohorské divadlo Více o akci",
+      "venue": "Krušnohorské divadlo",
       "city": "Teplice",
       "dateStart": "2026-11-27T20:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/"
     },
@@ -540,9 +582,10 @@
       "id": "003bccd003167f81",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
-      "venue": "Dům kultury Více o akci",
+      "venue": "Dům kultury",
       "city": "Teplice",
       "dateStart": "2026-11-28T14:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/"
     },
@@ -550,9 +593,10 @@
       "id": "bf5f936d1c007e81",
       "title": "OBUŠKU Z PYTLE VEN",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-29T10:30:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/"
     },
@@ -560,9 +604,10 @@
       "id": "54f37fadb8e918cd",
       "title": "MEZI NEBEM A ŽENOU",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-11-30T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/"
     },
@@ -573,6 +618,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "dateEnd": "2026-12-31T00:00:00+01:00"
@@ -581,9 +627,10 @@
       "id": "6f34e8447c2a2f3e",
       "title": "JAK ANDĚLÍČEK ZACHRÁNIL VÁNOCE",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-12-03T10:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/"
     },
@@ -594,6 +641,7 @@
       "venue": "Teplice",
       "city": "Teplice",
       "dateStart": "2026-12-04T00:00:00+01:00",
+      "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
       "ticketUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
       "dateEnd": "2026-12-06T00:00:00+01:00"
@@ -602,9 +650,10 @@
       "id": "361c8dd83d11c823",
       "title": "BECKHAM",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-12-04T19:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/beckham/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/"
     },
@@ -612,9 +661,10 @@
       "id": "a6397eacc7a13b3f",
       "title": "PŮJDEM SPOLU DO BETLÉMA",
       "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál Více o akci",
+      "venue": "Krušnohorské divadlo - Velký sál",
       "city": "Teplice",
       "dateStart": "2026-12-06T11:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/"
     },
@@ -622,9 +672,10 @@
       "id": "6bb59adfc6b9b03b",
       "title": "Mikulášská na dvoře DDM",
       "category": "other",
-      "venue": "Místo konání DDM Více o akci",
+      "venue": "Místo konání DDM",
       "city": "Teplice",
       "dateStart": "2026-12-06T16:00:00+01:00",
+      "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm"
     },
@@ -635,6 +686,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2027-09-17T00:00:00+02:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17"
     },
@@ -645,6 +697,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2027-09-17T00:00:00+02:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
     },
@@ -655,6 +708,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2027-09-17T00:00:00+02:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
     },
@@ -665,6 +719,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2027-09-19T00:00:00+02:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
     },
@@ -675,6 +730,7 @@
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2027-10-01T00:00:00+02:00",
+      "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
       "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
     }
