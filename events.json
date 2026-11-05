@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:19:40.724355+01:00",
+  "updatedAt": "2026-11-05T14:58:14.110Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -22,7 +22,9 @@
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
-      "dateEnd": "2026-12-06T00:00:00+01:00"
+      "dateEnd": "2026-12-06T00:00:00+01:00",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/d55723cd5e997ae6.jpg",
+      "imageGenerated": true
     },
     {
       "id": "10ba51f2b80a06ea",
@@ -33,7 +35,9 @@
       "dateStart": "2026-11-06T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06"
+      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/10ba51f2b80a06ea.jpg",
+      "imageGenerated": true
     },
     {
       "id": "131d3f952c223c4f",
@@ -57,7 +61,9 @@
       "dateStart": "2026-11-06T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5d71e1ccf53ac250.jpg",
+      "imageGenerated": true
     },
     {
       "id": "86e1e4b26040c3fc",
@@ -68,7 +74,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.uporiny.cz/",
-      "ticketUrl": "https://www.uporiny.cz/"
+      "ticketUrl": "https://www.uporiny.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/86e1e4b26040c3fc.jpg",
+      "imageGenerated": true
     },
     {
       "id": "2326c679888ac9c0",
