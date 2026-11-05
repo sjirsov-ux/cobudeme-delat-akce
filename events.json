@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:13:16.662641+01:00",
+  "updatedAt": "2026-11-05T12:49:38.296273+01:00",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -469,6 +469,18 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/"
     },
     {
+      "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
+      "title": "Renne Dang – Trauma Party Tour",
+      "category": "party",
+      "venue": "Národní dům, Velká Hradební 619/33, 400 01",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-21T20:00:00+01:00",
+      "dateEnd": "2026-11-22T03:00:00+01:00",
+      "sourceUrl": "https://www.ksul.cz/termin/6513/",
+      "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
+      "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
+    },
+    {
       "id": "6aedc3ebb58ffa6e",
       "title": "MENOPAUZA? NENÍ PAUZA!",
       "category": "other",
@@ -579,6 +591,18 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/"
     },
     {
+      "id": "teige-dj-pavel-bidlo-usti-2026-11-27",
+      "title": "teige + DJ Pavel Bidlo",
+      "category": "party",
+      "venue": "Veřejný sál Hraničář",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-27T20:30:00+01:00",
+      "dateEnd": "2026-11-28T02:00:00+01:00",
+      "sourceUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
+      "ticketUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
+      "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30."
+    },
+    {
       "id": "003bccd003167f81",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
@@ -622,6 +646,18 @@
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "dateEnd": "2026-12-31T00:00:00+01:00"
+    },
+    {
+      "id": "christmas-party-studentska-unie-ujep-usti-2026-12-02",
+      "title": "Christmas Party – Studentská unie UJEP",
+      "category": "party",
+      "venue": "Music pub DOMA",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-02T20:00:00+01:00",
+      "dateEnd": "2026-12-03T04:00:00+01:00",
+      "sourceUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
+      "ticketUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
+      "description": "Vánoční party Studentské unie UJEP. Vstup 18+; vstupenky jsou v předprodeji na NFCtron."
     },
     {
       "id": "6f34e8447c2a2f3e",
