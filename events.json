@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:32:15.381Z",
+  "updatedAt": "2026-11-05T16:45:47.499Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -338,7 +338,9 @@
       "dateStart": "2026-11-12T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/4075edb795ad1bb2.jpg",
+      "imageGenerated": true
     },
     {
       "id": "e00102d3ecc34f71",
@@ -349,7 +351,9 @@
       "dateStart": "2026-11-13T15:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/e00102d3ecc34f71.jpg",
+      "imageGenerated": true
     },
     {
       "id": "d4ba38495d5fdf8c",
@@ -360,7 +364,9 @@
       "dateStart": "2026-11-13T20:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
+      "ticketUrl": "https://www.knihovna-teplice.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/d4ba38495d5fdf8c.jpg",
+      "imageGenerated": true
     },
     {
       "id": "0518fa3b08ddce62",
@@ -371,7 +377,9 @@
       "dateStart": "2026-11-14T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
+      "ticketUrl": "https://www.knihovna-teplice.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/0518fa3b08ddce62.jpg",
+      "imageGenerated": true
     },
     {
       "id": "553592e7c9e8356b",
