@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:45:16.897Z",
+  "updatedAt": "2026-11-05T17:47:21.149Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -813,7 +813,9 @@
       "dateStart": "2026-12-04T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/beckham/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/361c8dd83d11c823.jpg",
+      "imageGenerated": true
     },
     {
       "id": "a6397eacc7a13b3f",
