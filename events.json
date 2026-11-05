@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:36:10.087Z",
+  "updatedAt": "2026-11-05T17:40:21.671Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -706,7 +706,9 @@
       "dateEnd": "2026-11-28T02:00:00+01:00",
       "sourceUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
       "ticketUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
-      "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30."
+      "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30.",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/teige-dj-pavel-bidlo-usti-2026-11-27.jpg",
+      "imageGenerated": true
     },
     {
       "id": "003bccd003167f81",
@@ -717,7 +719,9 @@
       "dateStart": "2026-11-28T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/003bccd003167f81.jpg",
+      "imageGenerated": true
     },
     {
       "id": "bf5f936d1c007e81",
@@ -728,7 +732,9 @@
       "dateStart": "2026-11-29T10:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/bf5f936d1c007e81.jpg",
+      "imageGenerated": true
     },
     {
       "id": "54f37fadb8e918cd",
@@ -739,7 +745,9 @@
       "dateStart": "2026-11-30T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/54f37fadb8e918cd.jpg",
+      "imageGenerated": true
     },
     {
       "id": "05eea4bcf1c5212f",
