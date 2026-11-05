@@ -18,7 +18,7 @@ SOURCES = [
     ("Ústí nad Labem", "https://www.usti.cz/cz/volny-cas/kalendar-akci.html"),
 ]
 DATE_RE = re.compile(r"(?<!\d)(\d{1,2})\s*[./]\s*(\d{1,2})(?:\s*[./]\s*(20\d{2}))?")
-TIME_RE = re.compile(r"(?<!\d)([01]?\d|2[0-3])[:.]([0-5]\d)(?!\d)")
+TIME_RE = re.compile(r"(?<!\d)([01]?\d|2[0-3]):([0-5]\d)(?!\d)")
 SKIP_TITLES = {"více o akci", "přečíst článek", "načíst další události", "více", "koncert", "výstava", "akce", "program"}
 HEADERS = {"User-Agent": "CoBudemeDelatEventsBot/1.0 (public event feed)"}
 
