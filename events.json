@@ -1,0 +1,9 @@
+{
+  "updatedAt": "2026-11-05T00:00:00+01:00",
+  "events": [],
+  "sources": [
+    { "city": "Teplice", "url": "https://visitteplice.com/aktuality/" },
+    { "city": "Ústí nad Labem", "url": "https://kamvusti.cz/" },
+    { "city": "Ústí nad Labem", "url": "https://www.usti.cz/cz/volny-cas/kalendar-akci.html" }
+  ]
+}
