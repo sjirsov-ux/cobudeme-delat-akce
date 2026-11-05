@@ -11,7 +11,6 @@ import time
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-from threading import Lock
 
 import requests
 
@@ -22,7 +21,6 @@ IMAGE_MODEL = os.getenv("OPENAI_IMAGE_MODEL", "gpt-image-2.5-flare")
 IMAGE_ENDPOINT = "https://api.openai.com/v1/images/generations"
 RAW_IMAGE_BASE = "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images"
 MAX_WORKERS = 3
-HASH_LOCK = Lock()
 
 
 def normalized(value: str) -> str:
@@ -111,7 +109,10 @@ def generate_image(event: dict, api_key: str, variation: str = "") -> bytes:
                 timeout=(30, 180),
             )
             if response.status_code in (429, 500, 502, 503, 504) and attempt < 4:
-                wait = min(int(response.headers.get("Retry-After", 2 ** attempt)), 60)
+                try:
+                    wait = min(int(response.headers.get("Retry-After", 2 ** attempt)), 60)
+                except ValueError:
+                    wait = min(2 ** attempt, 60)
                 print(f"Dočasná chyba generování pro {event['id']} ({response.status_code}), další pokus za {wait}s.")
                 time.sleep(wait)
                 continue
@@ -123,7 +124,8 @@ def generate_image(event: dict, api_key: str, variation: str = "") -> bytes:
             return image_bytes
         except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
             last_error = exc
-            if attempt < 4 and (not isinstance(exc, requests.HTTPError) or exc.response is None or exc.response.status_code >= 500):
+            status = exc.response.status_code if isinstance(exc, requests.HTTPError) and exc.response is not None else 0
+            if attempt < 4 and (not status or status >= 500):
                 time.sleep(min(2 ** attempt, 30))
                 continue
             break
@@ -131,59 +133,71 @@ def generate_image(event: dict, api_key: str, variation: str = "") -> bytes:
 
 
 def main() -> int:
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
-    if not api_key:
-        print("Chybí OPENAI_API_KEY. Přidejte jej v GitHub Settings → Secrets and variables → Actions.")
-        return 2
     payload = json.loads(FEED_PATH.read_text(encoding="utf-8"))
     events = payload.get("events", [])
     if not isinstance(events, list):
         raise ValueError("events.json neobsahuje seznam events.")
 
-    IMAGE_DIR.mkdir(parents=True, exist_ok=True)
-    existing_hashes: set[str] = set()
-    for image_path in IMAGE_DIR.glob("*.jpg"):
-        existing_hashes.add(hashlib.sha256(image_path.read_bytes()).hexdigest())
+    api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        print("OPENAI_API_KEY není nastaven. Generování fotek přeskočeno; přidejte klíč do GitHub Actions Secrets.")
+        return 0
 
+    IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+    all_existing_hashes = {
+        hashlib.sha256(image_path.read_bytes()).hexdigest()
+        for image_path in IMAGE_DIR.glob("*.jpg")
+    }
+    active_hashes: set[str] = set()
     pending = []
     for event in events:
         if not isinstance(event, dict) or not event.get("id") or not event.get("title"):
             raise ValueError("Feed obsahuje akci bez id nebo title.")
-        event_id = safe_event_id(event)
-        image_path = IMAGE_DIR / f"{event_id}.jpg"
+        image_path = IMAGE_DIR / f"{safe_event_id(event)}.jpg"
         if image_path.is_file():
-            event["imageUrl"] = f"{RAW_IMAGE_BASE}/{image_path.name}"
-            event["imageGenerated"] = True
-        else:
-            pending.append((event, image_path))
+            digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
+            if digest not in active_hashes:
+                active_hashes.add(digest)
+                event["imageUrl"] = f"{RAW_IMAGE_BASE}/{image_path.name}"
+                event["imageGenerated"] = True
+                continue
+        pending.append((event, image_path))
 
-    print(f"Akcí celkem: {len(events)}; nových jedinečných obrázků k vytvoření: {len(pending)}.")
-    generated: dict[str, tuple[dict, Path, bytes]] = {}
+    print(f"Akcí celkem: {len(events)}; nových nebo opakovaných obrázků k vytvoření: {len(pending)}.")
+    generated_count = 0
+    failures = []
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(generate_image, event, api_key): (event, path) for event, path in pending}
         for future in as_completed(futures):
             event, image_path = futures[future]
-            image_bytes = future.result()
-            digest = hashlib.sha256(image_bytes).hexdigest()
-            if digest in existing_hashes:
-                image_bytes = generate_image(event, api_key, "Make this image distinctly different from previous event images: change the scene arrangement, camera position, and lighting.")
+            try:
+                image_bytes = future.result()
                 digest = hashlib.sha256(image_bytes).hexdigest()
-                if digest in existing_hashes:
-                    raise RuntimeError(f"API opakovaně vrátilo stejný obrázek pro akci {event['id']}.")
-            existing_hashes.add(digest)
-            generated[event["id"]] = (event, image_path, image_bytes)
-            print(f"Vygenerováno: {event['title']} ({len(generated)}/{len(pending)}).")
-
-    for event, image_path, image_bytes in generated.values():
-        temp_path = image_path.with_suffix(".jpg.tmp")
-        temp_path.write_bytes(image_bytes)
-        temp_path.replace(image_path)
-        event["imageUrl"] = f"{RAW_IMAGE_BASE}/{image_path.name}"
-        event["imageGenerated"] = True
+                if digest in all_existing_hashes or digest in active_hashes:
+                    image_bytes = generate_image(
+                        event,
+                        api_key,
+                        "The composition must be visibly distinct from all other event-card images: use a different viewpoint, subject arrangement, and light direction.",
+                    )
+                    digest = hashlib.sha256(image_bytes).hexdigest()
+                if digest in all_existing_hashes or digest in active_hashes:
+                    raise RuntimeError("Model opakovaně vrátil již použitý obrázek.")
+                image_path.write_bytes(image_bytes)
+                all_existing_hashes.add(digest)
+                active_hashes.add(digest)
+                event["imageUrl"] = f"{RAW_IMAGE_BASE}/{image_path.name}"
+                event["imageGenerated"] = True
+                generated_count += 1
+                print(f"Vygenerováno: {event['title']} ({generated_count}/{len(pending)}).")
+            except Exception as exc:
+                failures.append(f"{event.get('title', event.get('id'))}: {exc}")
+                print(f"Chyba obrázku: {failures[-1]}")
 
     payload["events"] = events
     FEED_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Hotovo: každá z {len(events)} akcí má vlastní soubor obrázku.")
+    print(f"Uloženo {generated_count} nových obrázků; jedinečný obrázek má {len(active_hashes)} z {len(events)} aktivních akcí.")
+    if failures:
+        print(f"Chybějící obrázky zkusí workflow znovu při příští aktualizaci: {len(failures)}.")
     return 0
 
 
