@@ -19,7 +19,7 @@ SOURCES = [
 ]
 DATE_RE = re.compile(r"(?<!\d)(\d{1,2})\s*[./]\s*(\d{1,2})(?:\s*[./]\s*(20\d{2}))?")
 TIME_RE = re.compile(r"(?<!\d)([01]?\d|2[0-3])[:.]([0-5]\d)(?!\d)")
-SKIP_TITLES = {"více o akci", "přečíst článek", "načíst další události", "více"}
+SKIP_TITLES = {"více o akci", "přečíst článek", "načíst další události", "více", "koncert", "výstava", "akce", "program"}
 HEADERS = {"User-Agent": "CoBudemeDelatEventsBot/1.0 (public event feed)"}
 
 def category_for(text: str) -> str:
@@ -49,7 +49,7 @@ def parse_date(text: str, now: datetime):
     return result[0], result[1] if len(result) > 1 and result[1] > result[0] else None
 
 def make_event(title, city, start, end, venue, source_url, image_url="", description=""):
-    key = f"{title.casefold()}|{city}|{start.isoformat()}|{venue.casefold()}"
+    key = f"{title.casefold()}|{city}|{start.isoformat()}"
     event = {"id": hashlib.sha1(key.encode()).hexdigest()[:16], "title": title, "category": category_for(title + " " + description),
              "venue": venue or city, "city": city, "dateStart": start.isoformat(), "sourceUrl": source_url, "ticketUrl": source_url}
     if end: event["dateEnd"] = end.isoformat()
@@ -125,7 +125,7 @@ def fetch_source(city, url, now):
         label = clean(link.get_text(" ", strip=True))
         start, end = parse_date(label, now)
         if start and start >= now and 4 <= len(label) <= 180:
-            title = clean(DATE_RE.sub("", label)).strip(" -|:")
+            title = clean(DATE_RE.sub("", label)).strip(" .-|:")
             if len(title) >= 4 and title.casefold() not in SKIP_TITLES:
                 events.append(make_event(title, city, start, end, city, urljoin(url, link["href"])))
     return events
