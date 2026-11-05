@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:09:23.913Z",
+  "updatedAt": "2026-11-05T17:19:00.121Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -548,7 +548,9 @@
       "dateStart": "2026-11-21T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/150339cb570185d1.jpg",
+      "imageGenerated": true
     },
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -560,7 +562,9 @@
       "dateEnd": "2026-11-22T03:00:00+01:00",
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
-      "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
+      "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+).",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/renne-dang-trauma-party-tour-usti-2026-11-21.jpg",
+      "imageGenerated": true
     },
     {
       "id": "6aedc3ebb58ffa6e",
@@ -571,7 +575,9 @@
       "dateStart": "2026-11-23T17:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6aedc3ebb58ffa6e.jpg",
+      "imageGenerated": true
     },
     {
       "id": "60269dee03993a78",
@@ -582,7 +588,9 @@
       "dateStart": "2026-11-24T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/"
+      "ticketUrl": "https://www.konzervatorteplice.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/60269dee03993a78.jpg",
+      "imageGenerated": true
     },
     {
       "id": "71d99e7d1c68c396",
