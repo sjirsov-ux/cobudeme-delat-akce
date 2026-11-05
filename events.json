@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:51:43.497Z",
+  "updatedAt": "2026-11-05T17:55:31.674Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -878,7 +878,9 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
+      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/83296a140c85f32c.jpg",
+      "imageGenerated": true
     },
     {
       "id": "5ebca6c603ad92f5",
@@ -889,7 +891,9 @@
       "dateStart": "2027-09-19T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5ebca6c603ad92f5.jpg",
+      "imageGenerated": true
     },
     {
       "id": "f3f03412b2a41028",
@@ -900,7 +904,9 @@
       "dateStart": "2027-10-01T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
-      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
+      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/f3f03412b2a41028.jpg",
+      "imageGenerated": true
     }
   ],
   "sources": [
