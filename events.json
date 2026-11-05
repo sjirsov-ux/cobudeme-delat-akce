@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:19:00.121Z",
+  "updatedAt": "2026-11-05T17:27:23.998Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -601,7 +601,9 @@
       "dateStart": "2026-11-24T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/71d99e7d1c68c396.jpg",
+      "imageGenerated": true
     },
     {
       "id": "ab6ca50bc974be9c",
@@ -612,7 +614,9 @@
       "dateStart": "2026-11-25T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/ab6ca50bc974be9c.jpg",
+      "imageGenerated": true
     },
     {
       "id": "2a6d8281df413a60",
@@ -623,7 +627,9 @@
       "dateStart": "2026-11-26T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
-      "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ"
+      "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/2a6d8281df413a60.jpg",
+      "imageGenerated": true
     },
     {
       "id": "5a54b4a240a71971",
@@ -634,7 +640,9 @@
       "dateStart": "2026-11-26T17:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5a54b4a240a71971.jpg",
+      "imageGenerated": true
     },
     {
       "id": "a9db363f01791f75",
