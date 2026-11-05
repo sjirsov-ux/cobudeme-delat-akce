@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:51:19.686Z",
+  "updatedAt": "2026-11-05T17:02:51.521Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -443,7 +443,9 @@
       "dateStart": "2026-11-19T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/047e4b722f6ef11d.jpg",
+      "imageGenerated": true
     },
     {
       "id": "46e4449c9bbcc12a",
@@ -455,7 +457,9 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
       "ticketUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
-      "dateEnd": "2026-11-29T00:00:00+01:00"
+      "dateEnd": "2026-11-29T00:00:00+01:00",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/46e4449c9bbcc12a.jpg",
+      "imageGenerated": true
     },
     {
       "id": "94b7f25b8aca09f3",
@@ -466,7 +470,9 @@
       "dateStart": "2026-11-20T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.doubravka.cz/",
-      "ticketUrl": "https://www.doubravka.cz/"
+      "ticketUrl": "https://www.doubravka.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/94b7f25b8aca09f3.jpg",
+      "imageGenerated": true
     },
     {
       "id": "3e68e5b89839f1f9",
@@ -477,7 +483,9 @@
       "dateStart": "2026-11-20T15:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/3e68e5b89839f1f9.jpg",
+      "imageGenerated": true
     },
     {
       "id": "98307c942f942bcf",
