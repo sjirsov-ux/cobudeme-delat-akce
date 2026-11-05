@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:27:23.998Z",
+  "updatedAt": "2026-11-05T17:36:10.087Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -653,7 +653,9 @@
       "dateStart": "2026-11-26T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/a9db363f01791f75.jpg",
+      "imageGenerated": true
     },
     {
       "id": "78ea7f6b0238fc51",
@@ -664,7 +666,9 @@
       "dateStart": "2026-11-27T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
+      "ticketUrl": "https://www.knihovna-teplice.cz/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/78ea7f6b0238fc51.jpg",
+      "imageGenerated": true
     },
     {
       "id": "15c2b03742454f02",
@@ -675,7 +679,9 @@
       "dateStart": "2026-11-27T15:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/15c2b03742454f02.jpg",
+      "imageGenerated": true
     },
     {
       "id": "fc701300bcda0bbe",
@@ -686,7 +692,9 @@
       "dateStart": "2026-11-27T20:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/"
+      "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/fc701300bcda0bbe.jpg",
+      "imageGenerated": true
     },
     {
       "id": "teige-dj-pavel-bidlo-usti-2026-11-27",
