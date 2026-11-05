@@ -31,7 +31,8 @@ jobs:
           git add events.json
           if ! git diff --cached --quiet; then
             git commit -m "Aktualizovat přehled akcí"
-            git pull --rebase origin main\n            git push
+            git pull --rebase origin main
+            git push
           else
             echo "Feed se nezměnil."
           fi
