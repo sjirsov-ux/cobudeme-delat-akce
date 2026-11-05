@@ -20,8 +20,8 @@ Události používají pole `id`, `title`, `category`, `venue`, `city`, `dateSta
 
 Časy jsou uváděny v časové zóně Europe/Prague. Feed obsahuje jen veřejně dostupné informace a nevyžaduje Firebase ani přístupové klíče.
 
-## Jedinečné obrázky akcí
+## Připravené generování jedinečných obrázků
 
-Workflow vytváří pro každou akci vlastní fotorealistický ilustrační obrázek podle názvu a popisu. Soubory se ukládají pod ID akce do `assets/event-images/`; při dalších aktualizacích se znovu používají a obrázek jiné akce se nepřiřadí. Nová akce dostane nový obrázek při příštím denním běhu workflow. Selhané generování se zkusí znovu při dalším běhu.
+Skript `scripts/generate_event_images.py` vytvoří pro každou akci tematický obrázek a uloží jej pod ID akce do `assets/event-images/`. Zapsaná URL je jedinečná pro danou akci; již uložený soubor se při dalších aktualizacích znovu nepoužije pro jinou akci. Skript je připravený, ale zatím není zapojený do denního workflow.
 
-Pro aktivaci přidejte v GitHubu do **Settings → Secrets and variables → Actions** repository secret s názvem `OPENAI_API_KEY`, poté spusťte workflow **Aktualizace veřejného přehledu akcí** ručně. Klíč patří pouze do GitHub Secret, nikdy do aplikace. Generování používá OpenAI Images API a účtuje se zvlášť podle použitého modelu a počtu obrázků; 69 současných akcí znamená 69 prvních generování. Bez nastaveného klíče se feed dál obnovuje, ale nové obrázky se přeskočí.
+Generování používá placené OpenAI Images API. Zapojení do automatického workflow vyžaduje repository secret `OPENAI_API_KEY` v GitHubu a souhlas s úhradou první dávky pro 69 akcí i dalších nových akcí. Klíč se ukládá jen do GitHub Secrets, nikdy do mobilní aplikace.
