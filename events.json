@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:03:40.953Z",
+  "updatedAt": "2026-11-05T15:10:40.315Z",
   "events": [
     {
       "id": "50cdb04c3b0fe257",
@@ -128,7 +128,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07"
+      "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/1d38cee968fb5415.jpg",
+      "imageGenerated": true
     },
     {
       "id": "7a6290a40b27cbd5",
@@ -139,7 +141,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07"
+      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/7a6290a40b27cbd5.jpg",
+      "imageGenerated": true
     },
     {
       "id": "54dacf31a9b29b40",
@@ -150,7 +154,9 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07"
+      "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/54dacf31a9b29b40.jpg",
+      "imageGenerated": true
     },
     {
       "id": "e8a0d7a9db36a63a",
@@ -161,7 +167,9 @@
       "dateStart": "2026-11-07T12:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/e8a0d7a9db36a63a.jpg",
+      "imageGenerated": true
     },
     {
       "id": "7c22bfc81a0019d2",
