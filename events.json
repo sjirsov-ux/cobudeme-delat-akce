@@ -44,7 +44,9 @@
       "dateStart": "2026-11-06T16:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou"
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
+      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/131d3f952c223c4f.jpg",
+      "imageGenerated": true
     },
     {
       "id": "5d71e1ccf53ac250",
