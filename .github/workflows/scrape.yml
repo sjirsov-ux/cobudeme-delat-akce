@@ -14,7 +14,7 @@ permissions:
 jobs:
   update-events:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,15 +24,19 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python scripts/scrape_events.py
-      - name: Commit updated feed
+      - name: Generate unique event images
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_event_images.py
+      - name: Commit updated feed and images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add events.json
+          git add events.json assets/event-images/
           if ! git diff --cached --quiet; then
-            git commit -m "Aktualizovat přehled akcí"
+            git commit -m "Aktualizovat akce a jejich obrázky"
             git pull --rebase origin main
             git push
           else
-            echo "Feed se nezměnil."
+            echo "Feed ani obrázky se nezměnily."
           fi
