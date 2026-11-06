@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-11-05T17:55:31.674Z",
+  "updatedAt": "2026-11-06T06:04:18.417401+01:00",
   "events": [
-    {
-      "id": "50cdb04c3b0fe257",
-      "title": "2. ABONENTNÍ KONCERT CYKLU A",
-      "category": "concert",
-      "venue": "Dům kultury - Koncertní sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-05T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-a-6/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/50cdb04c3b0fe257.jpg",
-      "imageGenerated": true
-    },
-    {
-      "id": "d55723cd5e997ae6",
-      "title": "Výstava Anatomie plátna",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-06T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/vystava-anatomie-platna",
-      "dateEnd": "2026-12-06T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/d55723cd5e997ae6.jpg",
-      "imageGenerated": true
-    },
-    {
-      "id": "10ba51f2b80a06ea",
-      "title": "Ponorka.smysly - Dopravní Šrumec Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-06T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-06",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/10ba51f2b80a06ea.jpg",
-      "imageGenerated": true
-    },
     {
       "id": "131d3f952c223c4f",
       "title": "Lampionový průvod",
@@ -50,9 +10,7 @@
       "dateStart": "2026-11-06T16:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/131d3f952c223c4f.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou"
     },
     {
       "id": "5d71e1ccf53ac250",
@@ -63,9 +21,7 @@
       "dateStart": "2026-11-06T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5d71e1ccf53ac250.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/"
     },
     {
       "id": "86e1e4b26040c3fc",
@@ -76,9 +32,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.uporiny.cz/",
-      "ticketUrl": "https://www.uporiny.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/86e1e4b26040c3fc.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.uporiny.cz/"
     },
     {
       "id": "2326c679888ac9c0",
@@ -89,9 +43,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/2326c679888ac9c0.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.konzervatorteplice.cz/"
     },
     {
       "id": "8ef8d0e4fdbffe5d",
@@ -102,9 +54,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/doubravka",
-      "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/8ef8d0e4fdbffe5d.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka"
     },
     {
       "id": "5ae0fc0740d7da55",
@@ -115,9 +65,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5ae0fc0740d7da55.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07"
     },
     {
       "id": "1d38cee968fb5415",
@@ -128,9 +76,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/1d38cee968fb5415.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07"
     },
     {
       "id": "7a6290a40b27cbd5",
@@ -141,9 +87,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/7a6290a40b27cbd5.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07"
     },
     {
       "id": "54dacf31a9b29b40",
@@ -154,9 +98,7 @@
       "dateStart": "2026-11-07T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/54dacf31a9b29b40.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07"
     },
     {
       "id": "e8a0d7a9db36a63a",
@@ -167,9 +109,7 @@
       "dateStart": "2026-11-07T12:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/e8a0d7a9db36a63a.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez"
     },
     {
       "id": "7c22bfc81a0019d2",
@@ -180,9 +120,7 @@
       "dateStart": "2026-11-07T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/7c22bfc81a0019d2.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/"
     },
     {
       "id": "1bf92001d6348777",
@@ -194,9 +132,7 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
-      "dateEnd": "2026-11-08T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/1bf92001d6348777.jpg",
-      "imageGenerated": true
+      "dateEnd": "2026-11-08T00:00:00+01:00"
     },
     {
       "id": "1dc7c7ae504c826a",
@@ -207,9 +143,7 @@
       "dateStart": "2026-11-08T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/1dc7c7ae504c826a.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic"
     },
     {
       "id": "4e01c41ba18f3cb5",
@@ -220,9 +154,7 @@
       "dateStart": "2026-11-08T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/4e01c41ba18f3cb5.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/"
     },
     {
       "id": "406b8440db894f9a",
@@ -233,9 +165,7 @@
       "dateStart": "2026-11-09T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/linda/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/linda/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/406b8440db894f9a.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/linda/"
     },
     {
       "id": "97541708880d63d5",
@@ -247,9 +177,7 @@
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
-      "dateEnd": "2027-04-18T00:00:00+02:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/97541708880d63d5.jpg",
-      "imageGenerated": true
+      "dateEnd": "2027-04-18T00:00:00+02:00"
     },
     {
       "id": "a09d74c8a9ba51dc",
@@ -260,9 +188,7 @@
       "dateStart": "2026-11-10T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/a09d74c8a9ba51dc.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10"
     },
     {
       "id": "4ba5174d02d39216",
@@ -273,9 +199,7 @@
       "dateStart": "2026-11-10T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/4ba5174d02d39216.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10"
     },
     {
       "id": "3ef0b8454bb71a0e",
@@ -286,9 +210,18 @@
       "dateStart": "2026-11-10T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/3ef0b8454bb71a0e.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10"
+    },
+    {
+      "id": "acd5a7f3716f519f",
+      "title": "Workshop Kaligrafie Vědecká knihovna UJEP",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10",
+      "ticketUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10"
     },
     {
       "id": "c5dcf875ba9e37c2",
@@ -299,9 +232,7 @@
       "dateStart": "2026-11-10T18:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c5dcf875ba9e37c2.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/"
     },
     {
       "id": "414d133b531fc60d",
@@ -312,9 +243,7 @@
       "dateStart": "2026-11-12T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/414d133b531fc60d.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic"
     },
     {
       "id": "7b73083b8f0826fe",
@@ -325,9 +254,7 @@
       "dateStart": "2026-11-12T16:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/7b73083b8f0826fe.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc"
     },
     {
       "id": "4075edb795ad1bb2",
@@ -338,9 +265,7 @@
       "dateStart": "2026-11-12T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/4075edb795ad1bb2.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/"
     },
     {
       "id": "e00102d3ecc34f71",
@@ -351,9 +276,7 @@
       "dateStart": "2026-11-13T15:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/e00102d3ecc34f71.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek"
     },
     {
       "id": "d4ba38495d5fdf8c",
@@ -364,9 +287,7 @@
       "dateStart": "2026-11-13T20:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/d4ba38495d5fdf8c.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
     {
       "id": "0518fa3b08ddce62",
@@ -377,9 +298,7 @@
       "dateStart": "2026-11-14T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/0518fa3b08ddce62.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
     {
       "id": "553592e7c9e8356b",
@@ -390,9 +309,7 @@
       "dateStart": "2026-11-14T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://sanewellbeing.com/",
-      "ticketUrl": "https://sanewellbeing.com/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/553592e7c9e8356b.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://sanewellbeing.com/"
     },
     {
       "id": "70f5969fe2625eec",
@@ -403,9 +320,7 @@
       "dateStart": "2026-11-14T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
-      "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/70f5969fe2625eec.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/"
     },
     {
       "id": "c0694795c28292ee",
@@ -417,9 +332,7 @@
       "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "dateEnd": "2026-11-16T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c0694795c28292ee.jpg",
-      "imageGenerated": true
+      "dateEnd": "2026-11-16T00:00:00+01:00"
     },
     {
       "id": "16480e2b81d66fe3",
@@ -430,9 +343,7 @@
       "dateStart": "2026-11-18T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/16480e2b81d66fe3.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/"
     },
     {
       "id": "047e4b722f6ef11d",
@@ -443,9 +354,7 @@
       "dateStart": "2026-11-19T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/047e4b722f6ef11d.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/"
     },
     {
       "id": "46e4449c9bbcc12a",
@@ -457,9 +366,7 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
       "ticketUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
-      "dateEnd": "2026-11-29T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/46e4449c9bbcc12a.jpg",
-      "imageGenerated": true
+      "dateEnd": "2026-11-29T00:00:00+01:00"
     },
     {
       "id": "94b7f25b8aca09f3",
@@ -470,9 +377,7 @@
       "dateStart": "2026-11-20T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.doubravka.cz/",
-      "ticketUrl": "https://www.doubravka.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/94b7f25b8aca09f3.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.doubravka.cz/"
     },
     {
       "id": "3e68e5b89839f1f9",
@@ -483,9 +388,7 @@
       "dateStart": "2026-11-20T15:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/3e68e5b89839f1f9.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet"
     },
     {
       "id": "98307c942f942bcf",
@@ -496,9 +399,7 @@
       "dateStart": "2026-11-21T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/98307c942f942bcf.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
     },
     {
       "id": "d3be67f806829bda",
@@ -509,9 +410,7 @@
       "dateStart": "2026-11-21T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.galerieteplice.cz/",
-      "ticketUrl": "https://www.galerieteplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/d3be67f806829bda.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.galerieteplice.cz/"
     },
     {
       "id": "fa04305d0dfb1ad4",
@@ -522,9 +421,7 @@
       "dateStart": "2026-11-21T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/fa04305d0dfb1ad4.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
     },
     {
       "id": "51cd7a3cac1e3290",
@@ -535,9 +432,7 @@
       "dateStart": "2026-11-21T10:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/51cd7a3cac1e3290.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/"
     },
     {
       "id": "150339cb570185d1",
@@ -548,9 +443,7 @@
       "dateStart": "2026-11-21T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/150339cb570185d1.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/"
     },
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -562,9 +455,7 @@
       "dateEnd": "2026-11-22T03:00:00+01:00",
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
-      "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+).",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/renne-dang-trauma-party-tour-usti-2026-11-21.jpg",
-      "imageGenerated": true
+      "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
     },
     {
       "id": "6aedc3ebb58ffa6e",
@@ -575,9 +466,7 @@
       "dateStart": "2026-11-23T17:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6aedc3ebb58ffa6e.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/"
     },
     {
       "id": "60269dee03993a78",
@@ -588,9 +477,7 @@
       "dateStart": "2026-11-24T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/60269dee03993a78.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.konzervatorteplice.cz/"
     },
     {
       "id": "71d99e7d1c68c396",
@@ -601,9 +488,7 @@
       "dateStart": "2026-11-24T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/71d99e7d1c68c396.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/"
     },
     {
       "id": "ab6ca50bc974be9c",
@@ -614,9 +499,7 @@
       "dateStart": "2026-11-25T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/ab6ca50bc974be9c.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/"
     },
     {
       "id": "2a6d8281df413a60",
@@ -627,9 +510,7 @@
       "dateStart": "2026-11-26T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
-      "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/2a6d8281df413a60.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ"
     },
     {
       "id": "5a54b4a240a71971",
@@ -640,9 +521,7 @@
       "dateStart": "2026-11-26T17:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5a54b4a240a71971.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi"
     },
     {
       "id": "a9db363f01791f75",
@@ -653,9 +532,7 @@
       "dateStart": "2026-11-26T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/a9db363f01791f75.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/"
     },
     {
       "id": "78ea7f6b0238fc51",
@@ -666,9 +543,7 @@
       "dateStart": "2026-11-27T00:00:00+01:00",
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/78ea7f6b0238fc51.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
     {
       "id": "15c2b03742454f02",
@@ -679,9 +554,7 @@
       "dateStart": "2026-11-27T15:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/15c2b03742454f02.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek"
     },
     {
       "id": "fc701300bcda0bbe",
@@ -692,9 +565,7 @@
       "dateStart": "2026-11-27T20:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/fc701300bcda0bbe.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/"
     },
     {
       "id": "teige-dj-pavel-bidlo-usti-2026-11-27",
@@ -706,9 +577,7 @@
       "dateEnd": "2026-11-28T02:00:00+01:00",
       "sourceUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
       "ticketUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
-      "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30.",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/teige-dj-pavel-bidlo-usti-2026-11-27.jpg",
-      "imageGenerated": true
+      "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30."
     },
     {
       "id": "003bccd003167f81",
@@ -719,9 +588,7 @@
       "dateStart": "2026-11-28T14:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/003bccd003167f81.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/"
     },
     {
       "id": "bf5f936d1c007e81",
@@ -732,9 +599,7 @@
       "dateStart": "2026-11-29T10:30:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/bf5f936d1c007e81.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/obusku-z-pytle-ven/"
     },
     {
       "id": "54f37fadb8e918cd",
@@ -745,9 +610,7 @@
       "dateStart": "2026-11-30T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/54f37fadb8e918cd.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/"
     },
     {
       "id": "05eea4bcf1c5212f",
@@ -759,9 +622,7 @@
       "timeUnknown": true,
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
-      "dateEnd": "2026-12-31T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/05eea4bcf1c5212f.jpg",
-      "imageGenerated": true
+      "dateEnd": "2026-12-31T00:00:00+01:00"
     },
     {
       "id": "christmas-party-studentska-unie-ujep-usti-2026-12-02",
@@ -773,9 +634,7 @@
       "dateEnd": "2026-12-03T04:00:00+01:00",
       "sourceUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
       "ticketUrl": "https://tickets.nfctron.com/event/studentska-unie-ujep-z-s/vanocni-party-2026/cart",
-      "description": "Vánoční party Studentské unie UJEP. Vstup 18+; vstupenky jsou v předprodeji na NFCtron.",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/christmas-party-studentska-unie-ujep-usti-2026-12-02.jpg",
-      "imageGenerated": true
+      "description": "Vánoční party Studentské unie UJEP. Vstup 18+; vstupenky jsou v předprodeji na NFCtron."
     },
     {
       "id": "6f34e8447c2a2f3e",
@@ -786,9 +645,7 @@
       "dateStart": "2026-12-03T10:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6f34e8447c2a2f3e.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/jak-andelicek-zachranil-vanoce/"
     },
     {
       "id": "fd2e2f8c8176551b",
@@ -800,9 +657,7 @@
       "timeUnknown": true,
       "sourceUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
       "ticketUrl": "https://visitteplice.com/aktuality/vanoce-2026-mini-trhy/",
-      "dateEnd": "2026-12-06T00:00:00+01:00",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/fd2e2f8c8176551b.jpg",
-      "imageGenerated": true
+      "dateEnd": "2026-12-06T00:00:00+01:00"
     },
     {
       "id": "361c8dd83d11c823",
@@ -813,9 +668,7 @@
       "dateStart": "2026-12-04T19:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/beckham/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/361c8dd83d11c823.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/"
     },
     {
       "id": "a6397eacc7a13b3f",
@@ -826,9 +679,7 @@
       "dateStart": "2026-12-06T11:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/a6397eacc7a13b3f.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.dkteplice.cz/udalost/pujdem-spolu-do-betlema-5/"
     },
     {
       "id": "6bb59adfc6b9b03b",
@@ -839,9 +690,7 @@
       "dateStart": "2026-12-06T16:00:00+01:00",
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/6bb59adfc6b9b03b.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm"
     },
     {
       "id": "c24ac14422f52d66",
@@ -852,9 +701,7 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/c24ac14422f52d66.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17"
     },
     {
       "id": "549d7936ce7b0ffa",
@@ -865,9 +712,7 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/549d7936ce7b0ffa.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
     },
     {
       "id": "83296a140c85f32c",
@@ -878,9 +723,7 @@
       "dateStart": "2027-09-17T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/83296a140c85f32c.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
     },
     {
       "id": "5ebca6c603ad92f5",
@@ -891,9 +734,7 @@
       "dateStart": "2027-09-19T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/5ebca6c603ad92f5.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
     },
     {
       "id": "f3f03412b2a41028",
@@ -904,9 +745,7 @@
       "dateStart": "2027-10-01T00:00:00+02:00",
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
-      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
-      "imageUrl": "https://raw.githubusercontent.com/sjirsov-ux/cobudeme-delat-akce/main/assets/event-images/f3f03412b2a41028.jpg",
-      "imageGenerated": true
+      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
     }
   ],
   "sources": [
