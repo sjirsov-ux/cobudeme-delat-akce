@@ -1,105 +1,6 @@
 {
-  "updatedAt": "2026-11-06T06:04:18.417401+01:00",
+  "updatedAt": "2026-11-07T05:57:23.442384+01:00",
   "events": [
-    {
-      "id": "131d3f952c223c4f",
-      "title": "Lampionový průvod",
-      "category": "other",
-      "venue": "Místo konání DDM",
-      "city": "Teplice",
-      "dateStart": "2026-11-06T16:30:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4011-lampionovy-pruvod-s-halloweenskou-stezkou"
-    },
-    {
-      "id": "5d71e1ccf53ac250",
-      "title": "CHARITATIVNÍ MÓDNÍ PŘEHLÍDKA",
-      "category": "other",
-      "venue": "Krušnohorské divadlo - Malý sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-06T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/charitativni-modni-prehlidka-nadi-moravcove-a-afterparty-6/"
-    },
-    {
-      "id": "86e1e4b26040c3fc",
-      "title": "Strašidelný statek",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.uporiny.cz/",
-      "ticketUrl": "https://www.uporiny.cz/"
-    },
-    {
-      "id": "2326c679888ac9c0",
-      "title": "Den otevřených dveří",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/"
-    },
-    {
-      "id": "8ef8d0e4fdbffe5d",
-      "title": "Strašidelná Doubravka",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://bohosudovskesklepeni.cz/doubravka",
-      "ticketUrl": "https://bohosudovskesklepeni.cz/doubravka"
-    },
-    {
-      "id": "5ae0fc0740d7da55",
-      "title": "Ponorka.smysly - Dopravní Šrumec Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-07"
-    },
-    {
-      "id": "1d38cee968fb5415",
-      "title": "1. Mezinárodní Výstava Exotických Ježků Clarion Congress Hotel Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/1-mezinarodni-vystava-exotickych-jezku-2026-11-07"
-    },
-    {
-      "id": "7a6290a40b27cbd5",
-      "title": "WILDWOOD: Tajemství zakázaného lesa Veřejný sál Hraničář",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07"
-    },
-    {
-      "id": "54dacf31a9b29b40",
-      "title": "Provoz parní vodárny Parní Vodárna Střekov",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-07T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07",
-      "ticketUrl": "https://kamvusti.cz/akce/provoz-parni-vodarny-2026-11-07"
-    },
     {
       "id": "e8a0d7a9db36a63a",
       "title": "Taneční workshop",
@@ -146,6 +47,17 @@
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic"
     },
     {
+      "id": "5f073b01ce875d8f",
+      "title": "Ponorka.smysly - Dopravní Šrumec Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-08T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-08",
+      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-08"
+    },
+    {
       "id": "4e01c41ba18f3cb5",
       "title": "LUCIE BÍLÁ–RECITÁL",
       "category": "concert",
@@ -155,6 +67,17 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/"
+    },
+    {
+      "id": "0ca50663a2bf62bd",
+      "title": "Bitva u Chlumce",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-09T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/bitva-u-chlumce-1126",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/bitva-u-chlumce-1126"
     },
     {
       "id": "406b8440db894f9a",
@@ -235,6 +158,17 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/"
     },
     {
+      "id": "1c9c7e143a6620e1",
+      "title": "Sametová revoluce a události roku 1989",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-11T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/sametova-revoluce-a-udalosti-roku-1989",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/sametova-revoluce-a-udalosti-roku-1989"
+    },
+    {
       "id": "414d133b531fc60d",
       "title": "Projekce filmu Panelstory",
       "category": "other",
@@ -244,6 +178,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic"
+    },
+    {
+      "id": "c365e01e4de9890b",
+      "title": "Jak na cukrovku",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni"
     },
     {
       "id": "7b73083b8f0826fe",
@@ -335,6 +280,17 @@
       "dateEnd": "2026-11-16T00:00:00+01:00"
     },
     {
+      "id": "5120495aab99eb07",
+      "title": "Jan z Aldringenu",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-16T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu"
+    },
+    {
       "id": "16480e2b81d66fe3",
       "title": "2. ABONENTNÍ KONCERT CYKLU K",
       "category": "concert",
@@ -344,6 +300,17 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/"
+    },
+    {
+      "id": "4bf8fb3f6fe8d15e",
+      "title": "Zdravá noha a obouvání",
+      "category": "other",
+      "venue": "regionální knihovna Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-19T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani"
     },
     {
       "id": "047e4b722f6ef11d",
@@ -458,6 +425,17 @@
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
     },
     {
+      "id": "917918d79ce13e13",
+      "title": "Historie zločinu na Teplicku",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-23T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/historie-zlocinu-na-teplicku",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/historie-zlocinu-na-teplicku"
+    },
+    {
       "id": "6aedc3ebb58ffa6e",
       "title": "MENOPAUZA? NENÍ PAUZA!",
       "category": "other",
@@ -491,6 +469,17 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/"
     },
     {
+      "id": "bfb6a6495f9e262f",
+      "title": "Adventní pohádky pro dospělé",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-25T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/adventni-pohadky11-25-2026",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/adventni-pohadky11-25-2026"
+    },
+    {
       "id": "ab6ca50bc974be9c",
       "title": "SOUBOJ KLAVÍRŮ",
       "category": "other",
@@ -511,6 +500,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
       "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ"
+    },
+    {
+      "id": "404f73846db5cb17",
+      "title": "Ptačí songy",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-26T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy",
+      "ticketUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy"
     },
     {
       "id": "5a54b4a240a71971",
