@@ -1,62 +1,6 @@
 {
-  "updatedAt": "2026-11-07T05:57:23.442384+01:00",
+  "updatedAt": "2026-11-08T05:58:09.617107+01:00",
   "events": [
-    {
-      "id": "e8a0d7a9db36a63a",
-      "title": "Taneční workshop",
-      "category": "party",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T12:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4018-tanecni-workshop-juniori-a-mladez"
-    },
-    {
-      "id": "7c22bfc81a0019d2",
-      "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY – 40 let",
-      "category": "other",
-      "venue": "Dům kultury",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T14:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let/"
-    },
-    {
-      "id": "1bf92001d6348777",
-      "title": "Taneční workshop -oldies",
-      "category": "party",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-07T16:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4019-tanecni-workshop-oldies",
-      "dateEnd": "2026-11-08T00:00:00+01:00"
-    },
-    {
-      "id": "1dc7c7ae504c826a",
-      "title": "Architektonická procházka po centru Teplic",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-08T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/architektonicka-prochazka-po-centru-teplic"
-    },
-    {
-      "id": "5f073b01ce875d8f",
-      "title": "Ponorka.smysly - Dopravní Šrumec Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-08T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-08",
-      "ticketUrl": "https://kamvusti.cz/akce/ponorka-smysly-dopravni-srumec-2026-11-08"
-    },
     {
       "id": "4e01c41ba18f3cb5",
       "title": "LUCIE BÍLÁ–RECITÁL",
@@ -145,6 +89,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10",
       "ticketUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10"
+    },
+    {
+      "id": "5673e051ccfd4571",
+      "title": "Ústí showcase: koncert Národní dům",
+      "category": "concert",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-10T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/usti-showcase-koncert-2026-11-10",
+      "ticketUrl": "https://kamvusti.cz/akce/usti-showcase-koncert-2026-11-10"
     },
     {
       "id": "c5dcf875ba9e37c2",
@@ -255,6 +210,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://sanewellbeing.com/",
       "ticketUrl": "https://sanewellbeing.com/"
+    },
+    {
+      "id": "4832904a23ca12ea",
+      "title": "Kreativní Víkend s Luckou - Korálkové Hvězdičky Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-14T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/kreativni-vikend-s-luckou-koralkove-hvezdicky-2026-11-14",
+      "ticketUrl": "https://kamvusti.cz/akce/kreativni-vikend-s-luckou-koralkove-hvezdicky-2026-11-14"
     },
     {
       "id": "70f5969fe2625eec",
