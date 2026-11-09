@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-08T05:58:09.617107+01:00",
+  "updatedAt": "2026-11-09T06:12:35.230907+01:00",
   "events": [
-    {
-      "id": "4e01c41ba18f3cb5",
-      "title": "LUCIE BÍLÁ–RECITÁL",
-      "category": "concert",
-      "venue": "Krušnohorské divadlo - Velký sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-08T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/lucie-bila-recital-2/"
-    },
-    {
-      "id": "0ca50663a2bf62bd",
-      "title": "Bitva u Chlumce",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-09T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/bitva-u-chlumce-1126",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/bitva-u-chlumce-1126"
-    },
     {
       "id": "406b8440db894f9a",
       "title": "LINDA.",
@@ -223,6 +201,17 @@
       "ticketUrl": "https://kamvusti.cz/akce/kreativni-vikend-s-luckou-koralkove-hvezdicky-2026-11-14"
     },
     {
+      "id": "90c146366acd941e",
+      "title": "Muzeum čte dětem – Pan Lišák má knihy rád! Oblastní muzeum v Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-14T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/muzeum-cte-detem-2026-10-26",
+      "ticketUrl": "https://kamvusti.cz/akce/muzeum-cte-detem-2026-10-26"
+    },
+    {
       "id": "70f5969fe2625eec",
       "title": "Stezka odvahy s čerty z Rakouska",
       "category": "other",
@@ -244,6 +233,28 @@
       "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
       "dateEnd": "2026-11-16T00:00:00+01:00"
+    },
+    {
+      "id": "1b12d8bd341b4de4",
+      "title": "Lollipopz 10 let MEGATOUR 2026 Divadlo města Ústí nad Labem",
+      "category": "theater",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-15T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/lollipopz-10-let-megatour-2026-2026-11-15",
+      "ticketUrl": "https://kamvusti.cz/akce/lollipopz-10-let-megatour-2026-2026-11-15"
+    },
+    {
+      "id": "cef5ea30a7ac056c",
+      "title": "Kousky města",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-15T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/kousky-mesta-2026-11-15",
+      "ticketUrl": "https://kamvusti.cz/akce/kousky-mesta-2026-11-15"
     },
     {
       "id": "5120495aab99eb07",
@@ -659,6 +670,17 @@
       "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm"
     },
     {
+      "id": "0d01518b5f9b6915",
+      "title": "Výstava Výstava: Infrastuktury - Dát Prostor Touze Druhých . – . Dům umění Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-09-17T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vystava-infrastuktury-dat-prostor-touze-druhych-2026-09-17",
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-infrastuktury-dat-prostor-touze-druhych-2026-09-17"
+    },
+    {
       "id": "c24ac14422f52d66",
       "title": "Výstava CAMPORUM DESERTORUM . – . Dům umění Ústí nad Labem",
       "category": "other",
@@ -679,39 +701,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
-    },
-    {
-      "id": "83296a140c85f32c",
-      "title": "Výstava Infrastruktury: dát prostor touze druhých . – . Dům umění Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-17T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
-    },
-    {
-      "id": "5ebca6c603ad92f5",
-      "title": "Výstava Výstava: David Tureček - Propast . – . Galerie Emila Filly",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-19T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
-    },
-    {
-      "id": "f3f03412b2a41028",
-      "title": "Ostatní Ostatní Výtvarná soutěž: Vánoční bytosti . – . Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-10-01T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
-      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
     }
   ],
   "sources": [
