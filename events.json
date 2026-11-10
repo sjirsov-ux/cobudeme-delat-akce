@@ -1,84 +1,6 @@
 {
-  "updatedAt": "2026-11-09T06:12:35.230907+01:00",
+  "updatedAt": "2026-11-10T05:59:20.086093+01:00",
   "events": [
-    {
-      "id": "406b8440db894f9a",
-      "title": "LINDA.",
-      "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-09T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/linda/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/linda/"
-    },
-    {
-      "id": "97541708880d63d5",
-      "title": "Klik do minulosti",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/klik-do-minulosti",
-      "dateEnd": "2027-04-18T00:00:00+02:00"
-    },
-    {
-      "id": "a09d74c8a9ba51dc",
-      "title": "Zkoušky na zkoušku Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10"
-    },
-    {
-      "id": "4ba5174d02d39216",
-      "title": "KineDok: Jaképak soužití, sakra! Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/jakepak-souziti-sakra-2026-11-10"
-    },
-    {
-      "id": "3ef0b8454bb71a0e",
-      "title": "To těžké odvane / Das Schwere wird verschwinden Oblastní muzeum v Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/to-tezke-odvane-das-schwere-wird-verschwinden-2026-11-10"
-    },
-    {
-      "id": "acd5a7f3716f519f",
-      "title": "Workshop Kaligrafie Vědecká knihovna UJEP",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/workshop-kaligrafie-2026-11-10"
-    },
-    {
-      "id": "5673e051ccfd4571",
-      "title": "Ústí showcase: koncert Národní dům",
-      "category": "concert",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/usti-showcase-koncert-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/usti-showcase-koncert-2026-11-10"
-    },
     {
       "id": "c5dcf875ba9e37c2",
       "title": "MARTIN LOEW - JAPONSKO",
@@ -246,8 +168,8 @@
       "ticketUrl": "https://kamvusti.cz/akce/lollipopz-10-let-megatour-2026-2026-11-15"
     },
     {
-      "id": "cef5ea30a7ac056c",
-      "title": "Kousky města",
+      "id": "788dce1fdf68363e",
+      "title": "Kousky města Veřejný sál Hraničář",
       "category": "other",
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
@@ -288,6 +210,18 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani",
       "ticketUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani"
+    },
+    {
+      "id": "7bf414d999839e7c",
+      "title": "Výstava 100 let ZUŠ",
+      "category": "other",
+      "venue": "Zahradní dům",
+      "city": "Teplice",
+      "dateStart": "2026-11-19T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.zusteplice.cz/",
+      "ticketUrl": "https://www.zusteplice.cz/",
+      "dateEnd": "2027-01-08T00:00:00+01:00"
     },
     {
       "id": "047e4b722f6ef11d",
@@ -557,6 +491,17 @@
       "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30."
     },
     {
+      "id": "2cb9233e71897e3f",
+      "title": "Vánoční jarmark",
+      "category": "garden",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE",
+      "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
+    },
+    {
       "id": "003bccd003167f81",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
@@ -701,6 +646,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
+    },
+    {
+      "id": "5ebca6c603ad92f5",
+      "title": "Výstava Výstava: David Tureček - Propast . – . Galerie Emila Filly",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-09-19T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
     }
   ],
   "sources": [
