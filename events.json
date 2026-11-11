@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-10T05:59:20.086093+01:00",
+  "updatedAt": "2026-11-11T06:06:51.868067+01:00",
   "events": [
-    {
-      "id": "c5dcf875ba9e37c2",
-      "title": "MARTIN LOEW - JAPONSKO",
-      "category": "other",
-      "venue": "Kino Květen, přednáška",
-      "city": "Teplice",
-      "dateStart": "2026-11-10T18:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/martin-loew-cestovatelska-diashow-japonsko-2/"
-    },
-    {
-      "id": "1c9c7e143a6620e1",
-      "title": "Sametová revoluce a události roku 1989",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-11T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/sametova-revoluce-a-udalosti-roku-1989",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/sametova-revoluce-a-udalosti-roku-1989"
-    },
     {
       "id": "414d133b531fc60d",
       "title": "Projekce filmu Panelstory",
@@ -44,6 +22,28 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni",
       "ticketUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni"
+    },
+    {
+      "id": "30c16a63f64f1e60",
+      "title": "Maksym Eristavi – Russian Colonialism 101 Dům umění Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/prednaska-maksyma-eristaviho-2026-11-12",
+      "ticketUrl": "https://kamvusti.cz/akce/prednaska-maksyma-eristaviho-2026-11-12"
+    },
+    {
+      "id": "5fb70a5e4fa051f3",
+      "title": "„Velká pětka“ ústecké zoo Online událost",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/velka-petka-ustecke-zoo-2026-11-12",
+      "ticketUrl": "https://kamvusti.cz/akce/velka-petka-ustecke-zoo-2026-11-12"
     },
     {
       "id": "7b73083b8f0826fe",
@@ -143,6 +143,17 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
       "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/"
+    },
+    {
+      "id": "23c738aefb3ffb76",
+      "title": "VÁNOČNÍ SHOW",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-14T16:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.olympiateplice.cz/vanocni-show",
+      "ticketUrl": "https://www.olympiateplice.cz/vanocni-show"
     },
     {
       "id": "c0694795c28292ee",
@@ -300,6 +311,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
       "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
+    },
+    {
+      "id": "11106f106b4a18c7",
+      "title": "Strašidla v muzeu Oblastní muzeum v Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-21T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/strasidla-v-muzeu-2026-11-21",
+      "ticketUrl": "https://kamvusti.cz/akce/strasidla-v-muzeu-2026-11-21"
     },
     {
       "id": "51cd7a3cac1e3290",
