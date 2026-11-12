@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-11-11T06:06:51.868067+01:00",
+  "updatedAt": "2026-11-12T06:08:06.374944+01:00",
   "events": [
-    {
-      "id": "414d133b531fc60d",
-      "title": "Projekce filmu Panelstory",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-12T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/projekce-filmu-panelstory-a-prednaska-stiny-nerealizovanych-planu-teplic"
-    },
-    {
-      "id": "c365e01e4de9890b",
-      "title": "Jak na cukrovku",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-12T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/jak-na-cukrovku-a-chronicka-onemocneni"
-    },
-    {
-      "id": "30c16a63f64f1e60",
-      "title": "Maksym Eristavi – Russian Colonialism 101 Dům umění Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-12T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/prednaska-maksyma-eristaviho-2026-11-12",
-      "ticketUrl": "https://kamvusti.cz/akce/prednaska-maksyma-eristaviho-2026-11-12"
-    },
-    {
-      "id": "5fb70a5e4fa051f3",
-      "title": "„Velká pětka“ ústecké zoo Online událost",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-12T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/velka-petka-ustecke-zoo-2026-11-12",
-      "ticketUrl": "https://kamvusti.cz/akce/velka-petka-ustecke-zoo-2026-11-12"
-    },
     {
       "id": "7b73083b8f0826fe",
       "title": "Ruce pryč",
@@ -99,6 +55,18 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/",
       "ticketUrl": "https://www.knihovna-teplice.cz/"
+    },
+    {
+      "id": "e5dc126e3b3c105b",
+      "title": "PČR v Judu",
+      "category": "other",
+      "venue": "sportovní hala Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-14T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
+      "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
+      "dateEnd": "2026-11-15T00:00:00+01:00"
     },
     {
       "id": "553592e7c9e8356b",
@@ -190,6 +158,17 @@
       "ticketUrl": "https://kamvusti.cz/akce/kousky-mesta-2026-11-15"
     },
     {
+      "id": "e8ccf6cb6743b4ce",
+      "title": "Hollar a litografické dílny Praha, Galerie Hollar",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-15T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/hollar-a-litograficke-dilny-2026-11-15",
+      "ticketUrl": "https://kamvusti.cz/akce/hollar-a-litograficke-dilny-2026-11-15"
+    },
+    {
       "id": "5120495aab99eb07",
       "title": "Jan z Aldringenu",
       "category": "other",
@@ -199,6 +178,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu",
       "ticketUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu"
+    },
+    {
+      "id": "bc1021ea8ea56f56",
+      "title": "Botswana - Romantika na Safari Informační Středisko Města Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-18T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/botswana-romantika-na-safari-2026-11-18",
+      "ticketUrl": "https://kamvusti.cz/akce/botswana-romantika-na-safari-2026-11-18"
     },
     {
       "id": "16480e2b81d66fe3",
@@ -389,6 +379,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
+    },
+    {
+      "id": "666e73c4d398e806",
+      "title": "Čtenářský klub: Knihotání Knihovna Ústeckého kraje",
+      "category": "party",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-24T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/ctenarsky-klub-knihotani-2026-10-20",
+      "ticketUrl": "https://kamvusti.cz/akce/ctenarsky-klub-knihotani-2026-10-20"
     },
     {
       "id": "71d99e7d1c68c396",
