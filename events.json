@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-12T06:08:06.374944+01:00",
+  "updatedAt": "2026-11-13T06:05:44.373809+01:00",
   "events": [
-    {
-      "id": "7b73083b8f0826fe",
-      "title": "Ruce pryč",
-      "category": "other",
-      "venue": "Místo konání DDM",
-      "city": "Teplice",
-      "dateStart": "2026-11-12T16:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4016-ruce-pryc"
-    },
-    {
-      "id": "4075edb795ad1bb2",
-      "title": "LORDI",
-      "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-12T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/lordi-2/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/lordi-2/"
-    },
     {
       "id": "e00102d3ecc34f71",
       "title": "Kinopohádka: Shrek",
@@ -392,6 +370,17 @@
       "ticketUrl": "https://kamvusti.cz/akce/ctenarsky-klub-knihotani-2026-10-20"
     },
     {
+      "id": "2fa005b4c53cdeef",
+      "title": "Schichtova epopej Oblastní muzeum v Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-24T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/schichtova-epopej-2026-11-24",
+      "ticketUrl": "https://kamvusti.cz/akce/schichtova-epopej-2026-11-24"
+    },
+    {
       "id": "71d99e7d1c68c396",
       "title": "DEFbrass",
       "category": "other",
@@ -445,6 +434,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy",
       "ticketUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy"
+    },
+    {
+      "id": "9ff1dfd8e5321ee8",
+      "title": "Čtenářský klub: Čtu, tedy jsem Knihovna Ústeckého kraje",
+      "category": "party",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-26T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/ctenarsky-klub-ctu-tedy-jsem-2026-11-26",
+      "ticketUrl": "https://kamvusti.cz/akce/ctenarsky-klub-ctu-tedy-jsem-2026-11-26"
     },
     {
       "id": "5a54b4a240a71971",
