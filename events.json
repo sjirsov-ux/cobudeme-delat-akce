@@ -1,84 +1,6 @@
 {
-  "updatedAt": "2026-11-13T06:05:44.373809+01:00",
+  "updatedAt": "2026-11-14T05:58:56.222316+01:00",
   "events": [
-    {
-      "id": "e00102d3ecc34f71",
-      "title": "Kinopohádka: Shrek",
-      "category": "other",
-      "venue": "Místo konání DDM",
-      "city": "Teplice",
-      "dateStart": "2026-11-13T15:30:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4014-kinopohadka-shrek"
-    },
-    {
-      "id": "d4ba38495d5fdf8c",
-      "title": "Noc oživlých příběhů",
-      "category": "other",
-      "venue": "regionální knihovna",
-      "city": "Teplice",
-      "dateStart": "2026-11-13T20:30:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
-    },
-    {
-      "id": "0518fa3b08ddce62",
-      "title": "Zdobení adventních věnců",
-      "category": "other",
-      "venue": "regionální knihovna Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-14T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
-    },
-    {
-      "id": "e5dc126e3b3c105b",
-      "title": "PČR v Judu",
-      "category": "other",
-      "venue": "sportovní hala Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-14T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "dateEnd": "2026-11-15T00:00:00+01:00"
-    },
-    {
-      "id": "553592e7c9e8356b",
-      "title": "Sané day",
-      "category": "other",
-      "venue": "regionální knihovna Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-14T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://sanewellbeing.com/",
-      "ticketUrl": "https://sanewellbeing.com/"
-    },
-    {
-      "id": "4832904a23ca12ea",
-      "title": "Kreativní Víkend s Luckou - Korálkové Hvězdičky Dům dětí a mládeže a Zařízení pro další vzdělávání pedagogických pracovníků, Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-14T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/kreativni-vikend-s-luckou-koralkove-hvezdicky-2026-11-14",
-      "ticketUrl": "https://kamvusti.cz/akce/kreativni-vikend-s-luckou-koralkove-hvezdicky-2026-11-14"
-    },
-    {
-      "id": "90c146366acd941e",
-      "title": "Muzeum čte dětem – Pan Lišák má knihy rád! Oblastní muzeum v Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-14T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/muzeum-cte-detem-2026-10-26",
-      "ticketUrl": "https://kamvusti.cz/akce/muzeum-cte-detem-2026-10-26"
-    },
     {
       "id": "70f5969fe2625eec",
       "title": "Stezka odvahy s čerty z Rakouska",
@@ -536,6 +458,17 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-2/"
     },
     {
+      "id": "d8883d1229f29da8",
+      "title": "Teplické Vánoce 2026",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-29T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.teplice.cz/",
+      "ticketUrl": "https://www.teplice.cz/"
+    },
+    {
       "id": "bf5f936d1c007e81",
       "title": "OBUŠKU Z PYTLE VEN",
       "category": "other",
@@ -669,6 +602,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
       "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
+    },
+    {
+      "id": "83296a140c85f32c",
+      "title": "Výstava Infrastruktury: dát prostor touze druhých . – . Dům umění Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-09-17T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
+      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
     },
     {
       "id": "5ebca6c603ad92f5",
