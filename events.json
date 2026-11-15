@@ -1,73 +1,6 @@
 {
-  "updatedAt": "2026-11-14T05:58:56.222316+01:00",
+  "updatedAt": "2026-11-15T06:00:28.275323+01:00",
   "events": [
-    {
-      "id": "70f5969fe2625eec",
-      "title": "Stezka odvahy s čerty z Rakouska",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-14T14:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/",
-      "ticketUrl": "https://www.vanocevcesku.cz/stezka-odvahy-s-certy-z-rakouska-v-teplicich-2026/"
-    },
-    {
-      "id": "23c738aefb3ffb76",
-      "title": "VÁNOČNÍ SHOW",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-14T16:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.olympiateplice.cz/vanocni-show",
-      "ticketUrl": "https://www.olympiateplice.cz/vanocni-show"
-    },
-    {
-      "id": "c0694795c28292ee",
-      "title": "Mistrovství ČR žáků Judo",
-      "category": "other",
-      "venue": "sportovní hala Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-15T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "ticketUrl": "https://visitteplice.com/aktuality/www.halateplice.cz",
-      "dateEnd": "2026-11-16T00:00:00+01:00"
-    },
-    {
-      "id": "1b12d8bd341b4de4",
-      "title": "Lollipopz 10 let MEGATOUR 2026 Divadlo města Ústí nad Labem",
-      "category": "theater",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-15T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/lollipopz-10-let-megatour-2026-2026-11-15",
-      "ticketUrl": "https://kamvusti.cz/akce/lollipopz-10-let-megatour-2026-2026-11-15"
-    },
-    {
-      "id": "788dce1fdf68363e",
-      "title": "Kousky města Veřejný sál Hraničář",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-15T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/kousky-mesta-2026-11-15",
-      "ticketUrl": "https://kamvusti.cz/akce/kousky-mesta-2026-11-15"
-    },
-    {
-      "id": "e8ccf6cb6743b4ce",
-      "title": "Hollar a litografické dílny Praha, Galerie Hollar",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-15T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/hollar-a-litograficke-dilny-2026-11-15",
-      "ticketUrl": "https://kamvusti.cz/akce/hollar-a-litograficke-dilny-2026-11-15"
-    },
     {
       "id": "5120495aab99eb07",
       "title": "Jan z Aldringenu",
@@ -246,6 +179,17 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
+    },
+    {
+      "id": "aba9921abb4cb388",
+      "title": "Štístko a Poupěnka: …A kde je Poupěnka? Dům kultury",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-22T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/stistko-a-poupenka-a-kde-je-poupenka-2026-11-22",
+      "ticketUrl": "https://kamvusti.cz/akce/stistko-a-poupenka-a-kde-je-poupenka-2026-11-22"
     },
     {
       "id": "917918d79ce13e13",
@@ -445,6 +389,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE",
       "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
+    },
+    {
+      "id": "3e7487156e572abb",
+      "title": "Vánoční dílny Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28"
     },
     {
       "id": "003bccd003167f81",
