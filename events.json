@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-15T06:00:28.275323+01:00",
+  "updatedAt": "2026-11-16T06:37:26.053185+01:00",
   "events": [
-    {
-      "id": "5120495aab99eb07",
-      "title": "Jan z Aldringenu",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-16T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/jan-z-aldringenu"
-    },
     {
       "id": "bc1021ea8ea56f56",
       "title": "Botswana - Romantika na Safari Informační Středisko Města Ústí nad Labem",
@@ -402,6 +391,28 @@
       "ticketUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28"
     },
     {
+      "id": "4dc6a4d7933892c4",
+      "title": "Papája Veřejný sál Hraničář",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/papaja-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
+    },
+    {
+      "id": "6a6c766d88132eb6",
+      "title": "Advent v zoo Zoologická zahrada Ústí nad Labem",
+      "category": "garden",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28"
+    },
+    {
       "id": "003bccd003167f81",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
@@ -456,6 +467,17 @@
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "dateEnd": "2026-12-31T00:00:00+01:00"
+    },
+    {
+      "id": "c9b5d5c9a15a44a2",
+      "title": "KineDok: Je to ve hvězdách Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/kinedok-je-to-ve-hvezdach-2026-12-01",
+      "ticketUrl": "https://kamvusti.cz/akce/kinedok-je-to-ve-hvezdach-2026-12-01"
     },
     {
       "id": "christmas-party-studentska-unie-ujep-usti-2026-12-02",
@@ -570,15 +592,15 @@
       "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
     },
     {
-      "id": "5ebca6c603ad92f5",
-      "title": "Výstava Výstava: David Tureček - Propast . – . Galerie Emila Filly",
+      "id": "f3f03412b2a41028",
+      "title": "Ostatní Ostatní Výtvarná soutěž: Vánoční bytosti . – . Knihovna Ústeckého kraje",
       "category": "other",
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
-      "dateStart": "2027-09-19T00:00:00+02:00",
+      "dateStart": "2027-10-01T00:00:00+02:00",
       "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-david-turecek-propast-2026-09-19"
+      "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
+      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
     }
   ],
   "sources": [
