@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-11-18T06:09:47.939561+01:00",
+  "updatedAt": "2026-11-19T06:14:21.182430+01:00",
   "events": [
-    {
-      "id": "16480e2b81d66fe3",
-      "title": "2. ABONENTNÍ KONCERT CYKLU K",
-      "category": "concert",
-      "venue": "Zahradní dům",
-      "city": "Teplice",
-      "dateStart": "2026-11-18T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-k-6/"
-    },
-    {
-      "id": "4bf8fb3f6fe8d15e",
-      "title": "Zdravá noha a obouvání",
-      "category": "other",
-      "venue": "regionální knihovna Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-19T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/zdrava-noha-a-obouvani"
-    },
-    {
-      "id": "7bf414d999839e7c",
-      "title": "Výstava 100 let ZUŠ",
-      "category": "other",
-      "venue": "Zahradní dům",
-      "city": "Teplice",
-      "dateStart": "2026-11-19T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.zusteplice.cz/",
-      "ticketUrl": "https://www.zusteplice.cz/",
-      "dateEnd": "2027-01-08T00:00:00+01:00"
-    },
     {
       "id": "047e4b722f6ef11d",
       "title": "RUDY LINKA a GIL GOLDSTEIN",
@@ -446,6 +412,18 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/mezi-nebem-a-zenou/"
     },
     {
+      "id": "66f53cfca1bf084a",
+      "title": "Advent plný barev",
+      "category": "other",
+      "venue": "Botanická zahrada",
+      "city": "Teplice",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.botanickateplice.cz/",
+      "ticketUrl": "https://www.botanickateplice.cz/",
+      "dateEnd": "2027-01-03T00:00:00+01:00"
+    },
+    {
       "id": "05eea4bcf1c5212f",
       "title": "Bohosudovské sklepení",
       "category": "other",
@@ -467,6 +445,50 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/kinedok-je-to-ve-hvezdach-2026-12-01",
       "ticketUrl": "https://kamvusti.cz/akce/kinedok-je-to-ve-hvezdach-2026-12-01"
+    },
+    {
+      "id": "71496a2a7de9f50c",
+      "title": "VÁNOČNÍ AKADEMIE",
+      "category": "other",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-01T16:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/vanocni-akademie/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/vanocni-akademie/"
+    },
+    {
+      "id": "590437d3749f34e4",
+      "title": "Estonsko - Země Hradů a Dávných Eposů Informační Středisko Města Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-02T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/estonsko-zeme-hradu-a-davnych-eposu-2026-12-02",
+      "ticketUrl": "https://kamvusti.cz/akce/estonsko-zeme-hradu-a-davnych-eposu-2026-12-02"
+    },
+    {
+      "id": "cfcb79dff76c8dc0",
+      "title": "AKADEMIE ZŠ MARŠOVSKÁ",
+      "category": "other",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-02T17:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/kouzlo-zimniho-trpytu-akademie-zs-marsovska/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/kouzlo-zimniho-trpytu-akademie-zs-marsovska/"
+    },
+    {
+      "id": "f8283feb911d0b30",
+      "title": "3. ABONENTNÍ KONCERT CYKLU K",
+      "category": "concert",
+      "venue": "Zahradní dům",
+      "city": "Teplice",
+      "dateStart": "2026-12-02T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/3-abonentni-koncert-cyklu-k-6/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/3-abonentni-koncert-cyklu-k-6/"
     },
     {
       "id": "christmas-party-studentska-unie-ujep-usti-2026-12-02",
@@ -515,6 +537,28 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/beckham/"
     },
     {
+      "id": "8615e35868cf2e05",
+      "title": "Čertovsky kouzelná botanka",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-05T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.botanickateplice.cz/",
+      "ticketUrl": "https://www.botanickateplice.cz/"
+    },
+    {
+      "id": "8e6523e2009469bc",
+      "title": "Mikulášským vlakem na Moldavu",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-06T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.usteckadraha.cz/",
+      "ticketUrl": "https://www.usteckadraha.cz/"
+    },
+    {
       "id": "a6397eacc7a13b3f",
       "title": "PŮJDEM SPOLU DO BETLÉMA",
       "category": "other",
@@ -537,48 +581,225 @@
       "ticketUrl": "https://www.ddmteplice.cz/akce/4037-mikulasska-na-dvore-ddm"
     },
     {
-      "id": "0d01518b5f9b6915",
-      "title": "Výstava Výstava: Infrastuktury - Dát Prostor Touze Druhých . – . Dům umění Ústí nad Labem",
+      "id": "276580a0278efd2f",
+      "title": "BOLEST ZAD JE BATOH STRESU",
       "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-17T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-infrastuktury-dat-prostor-touze-druhych-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-infrastuktury-dat-prostor-touze-druhych-2026-09-17"
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-07T17:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/bolest-zad-je-batoh-stresu/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/bolest-zad-je-batoh-stresu/"
     },
     {
-      "id": "c24ac14422f52d66",
-      "title": "Výstava CAMPORUM DESERTORUM . – . Dům umění Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-17T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-camporum-desertorum-2026-09-17"
+      "id": "e62c0d5090bfde91",
+      "title": "VÁNOČNÍ KONCERT FEŠÁKŮ S HOSTY",
+      "category": "concert",
+      "venue": "Krušnohorské divadlo - Velký sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-07T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/vanocni-koncert-fesaku-s-hosty-2/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/vanocni-koncert-fesaku-s-hosty-2/"
     },
     {
-      "id": "549d7936ce7b0ffa",
-      "title": "Výstava Podél (Stříbrnický potok) . – . Dům umění Ústí nad Labem",
+      "id": "09c7cd72c4a77335",
+      "title": "RANDE NA SLEPO",
       "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-17T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-ian-mikyska-podel-stribrnicky-potok-2026-09-17"
+      "venue": "Krušnohorské divadlo - Velký sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-08T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/rande-na-slepo/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/rande-na-slepo/"
     },
     {
-      "id": "83296a140c85f32c",
-      "title": "Výstava Infrastruktury: dát prostor touze druhých . – . Dům umění Ústí nad Labem",
+      "id": "65c6ce65f03fa68f",
+      "title": "BÁRA POLÁKOVÁ – NĚHY26",
+      "category": "other",
+      "venue": "Krušnohorské divadlo - Velký sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-09T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/bara-polakova-nehy26/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/bara-polakova-nehy26/"
+    },
+    {
+      "id": "465389ee7f7824ae",
+      "title": "3. ABONENTNÍ KONCERT CYKLU A",
+      "category": "concert",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-10T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/3-abonentni-koncert-cyklu-a-6/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/3-abonentni-koncert-cyklu-a-6/"
+    },
+    {
+      "id": "6ec5aac8f2026f70",
+      "title": "Perníková chaloupka I.",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-11T16:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4040-pernikova-chaloupka-i",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4040-pernikova-chaloupka-i"
+    },
+    {
+      "id": "affaca4aa6aab547",
+      "title": "Perníková chaloupka II.",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-11T17:30:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4041-pernikova-chaloupka-ii",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4041-pernikova-chaloupka-ii"
+    },
+    {
+      "id": "4cfea8006898d2af",
+      "title": "NESEM VÁM NOVINY, POSLOUCHEJTE",
+      "category": "other",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-14T15:30:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/nesem-vam-noviny-poslouchejte-6/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/nesem-vam-noviny-poslouchejte-6/"
+    },
+    {
+      "id": "3b6fbbdd53216712",
+      "title": "TOMÁŠ KLUS A CÍLOVÁ SKUPINA",
+      "category": "other",
+      "venue": "Krušnohorské divadlo - Velký sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-14T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/tomas-klus-a-cilova-skupina/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/tomas-klus-a-cilova-skupina/"
+    },
+    {
+      "id": "9d9bfb8d5d5eda71",
+      "title": "POHÁDKOVÉ VÁNOCE S KONZERVATOŘÍ",
+      "category": "other",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-15T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/pohadkove-vanoce-s-konzervatori/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/pohadkove-vanoce-s-konzervatori/"
+    },
+    {
+      "id": "dc40454b00ff46e8",
+      "title": "OD ADVENTU DO TŘÍ KRÁLŮ",
+      "category": "other",
+      "venue": "Zahradní dům",
+      "city": "Teplice",
+      "dateStart": "2026-12-16T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/od-adventu-do-tri-kralu/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/od-adventu-do-tri-kralu/"
+    },
+    {
+      "id": "3597a68bbbacf485",
+      "title": "1. ABONENTNÍ KONCERT CYKLU C",
+      "category": "concert",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-17T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-c-6/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-c-6/"
+    },
+    {
+      "id": "faa7cbaf190dc06d",
+      "title": "Vánoce se zvířátky",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-18T15:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4045-vanoce-se-zviratky",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4045-vanoce-se-zviratky"
+    },
+    {
+      "id": "bd455a6dd4b116e1",
+      "title": "Vánoce ve smysloherně I.",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-18T15:30:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4043-vanoce-ve-smysloherne-i",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4043-vanoce-ve-smysloherne-i"
+    },
+    {
+      "id": "95e8b33dd841a276",
+      "title": "Vánoce ve smysloherně II.",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-18T17:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4044-vanoce-ve-smysloherne-ii",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4044-vanoce-ve-smysloherne-ii"
+    },
+    {
+      "id": "c29910aeb5089f3f",
+      "title": "Vánoční přespání v DDM",
+      "category": "other",
+      "venue": "Místo konání DDM",
+      "city": "Teplice",
+      "dateStart": "2026-12-18T17:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.ddmteplice.cz/akce/4042-vanocni-prespani-v-ddm",
+      "ticketUrl": "https://www.ddmteplice.cz/akce/4042-vanocni-prespani-v-ddm",
+      "dateEnd": "2026-12-19T00:00:00+01:00"
+    },
+    {
+      "id": "11d301d44fcc4e73",
+      "title": "J. J. RYBA – ČESKÁ MŠE VÁNOČNÍ",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-19T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/vanocni-koncert-j-j-ryba-ceska-mse-vanocni/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/vanocni-koncert-j-j-ryba-ceska-mse-vanocni/"
+    },
+    {
+      "id": "71564111bfebbb1d",
+      "title": "VIA SUDETICA",
+      "category": "other",
+      "venue": "Krušnohorské divadlo - Velký sál",
+      "city": "Teplice",
+      "dateStart": "2026-12-20T19:00:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/via-sudetica/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/via-sudetica/"
+    },
+    {
+      "id": "4864321f9f13b01d",
+      "title": "NOVOROČNÍ KONCERT SČF",
+      "category": "concert",
+      "venue": "Dům kultury - Koncertní sál",
+      "city": "Teplice",
+      "dateStart": "2027-01-01T13:30:00+01:00",
+      "timeUnknown": false,
+      "sourceUrl": "https://www.dkteplice.cz/udalost/novorocni-koncert-scf-6/",
+      "ticketUrl": "https://www.dkteplice.cz/udalost/novorocni-koncert-scf-6/"
+    },
+    {
+      "id": "5d78dddef0330419",
+      "title": "Výstava NaHavla: Hele, Havel! . – . Knihovna Ústeckého kraje",
       "category": "other",
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
-      "dateStart": "2027-09-17T00:00:00+02:00",
+      "dateStart": "2027-09-22T00:00:00+02:00",
       "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17",
-      "ticketUrl": "https://kamvusti.cz/akce/infrastruktury-dat-prostor-touze-druhych-2026-09-17"
+      "sourceUrl": "https://kamvusti.cz/akce/nahavla-hele-havel-2026-09-22",
+      "ticketUrl": "https://kamvusti.cz/akce/nahavla-hele-havel-2026-09-22"
     },
     {
       "id": "f3f03412b2a41028",
@@ -590,6 +811,39 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
       "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
+    },
+    {
+      "id": "6b28ed128fc3ef84",
+      "title": "Výstava Výstava: Architektura Ústí nad Labem 1845 - 1900 . – . Zámek Krásné Březno",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-10-05T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vystava-architektura-usti-nad-labem-1845-1900-2026-10-05",
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-architektura-usti-nad-labem-1845-1900-2026-10-05"
+    },
+    {
+      "id": "7af504b5581b6c9e",
+      "title": "Výstava 30 Let Jazzového Festivalu v Ústí . – . Oblastní muzeum v Ústí nad Labem",
+      "category": "concert",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-10-06T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/30-let-jazzoveho-festivalu-v-usti-2026-10-06",
+      "ticketUrl": "https://kamvusti.cz/akce/30-let-jazzoveho-festivalu-v-usti-2026-10-06"
+    },
+    {
+      "id": "9829dc27347fbef6",
+      "title": "Výstava JAZZ nad Labem: 30 let! . – . Jiná lokalita – viz detail akce",
+      "category": "concert",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-10-08T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08",
+      "ticketUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08"
     }
   ],
   "sources": [
