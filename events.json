@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-11-19T06:14:21.182430+01:00",
+  "updatedAt": "2026-11-20T06:09:47.406662+01:00",
   "events": [
-    {
-      "id": "047e4b722f6ef11d",
-      "title": "RUDY LINKA a GIL GOLDSTEIN",
-      "category": "other",
-      "venue": "Dům kultury - Koncertní sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-19T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/rudy-linka-a-gil-goldstein-reconnect/"
-    },
-    {
-      "id": "46e4449c9bbcc12a",
-      "title": "Velká výstava orchidejí",
-      "category": "garden",
-      "venue": "Botanická zahrada",
-      "city": "Teplice",
-      "dateStart": "2026-11-20T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
-      "ticketUrl": "https://www.botanickateplice.cz/akce/orchi-dejstvi-aneb-velka-vystava-orchideji-700",
-      "dateEnd": "2026-11-29T00:00:00+01:00"
-    },
-    {
-      "id": "94b7f25b8aca09f3",
-      "title": "III. ročník charitativní akce",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-20T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.doubravka.cz/",
-      "ticketUrl": "https://www.doubravka.cz/"
-    },
     {
       "id": "3e68e5b89839f1f9",
       "title": "Snoezelen - vodní svět",
@@ -167,6 +133,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
+    },
+    {
+      "id": "3e3fcb955dea81a1",
+      "title": "20 let na Sumatře a ve 20 letech na Sumatru Zoologická zahrada Ústí nad Labem",
+      "category": "garden",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-24T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24",
+      "ticketUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24"
     },
     {
       "id": "666e73c4d398e806",
@@ -355,17 +332,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/papaja-2026-11-28",
       "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
-    },
-    {
-      "id": "6a6c766d88132eb6",
-      "title": "Advent v zoo Zoologická zahrada Ústí nad Labem",
-      "category": "garden",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28"
     },
     {
       "id": "003bccd003167f81",
