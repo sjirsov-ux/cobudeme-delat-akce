@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-11-20T06:09:47.406662+01:00",
+  "updatedAt": "2026-11-21T06:02:06.207666+01:00",
   "events": [
-    {
-      "id": "3e68e5b89839f1f9",
-      "title": "Snoezelen - vodní svět",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-20T15:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4021-snoezelen-vodni-svet"
-    },
-    {
-      "id": "98307c942f942bcf",
-      "title": "Živé Teplice v muzeu 2026",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-21T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
-    },
-    {
-      "id": "d3be67f806829bda",
-      "title": "Slet andělů",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-21T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.galerieteplice.cz/",
-      "ticketUrl": "https://www.galerieteplice.cz/"
-    },
-    {
-      "id": "fa04305d0dfb1ad4",
-      "title": "Živé Teplice v muzeu",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-21T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026",
-      "ticketUrl": "https://zamek-teplice.cz/cz/aktuality/zive-teplice-v-muzeu-2026"
-    },
-    {
-      "id": "11106f106b4a18c7",
-      "title": "Strašidla v muzeu Oblastní muzeum v Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-21T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/strasidla-v-muzeu-2026-11-21",
-      "ticketUrl": "https://kamvusti.cz/akce/strasidla-v-muzeu-2026-11-21"
-    },
     {
       "id": "51cd7a3cac1e3290",
       "title": "1. ABONENTNÍ KONCERT CYKLU D",
@@ -91,17 +36,6 @@
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
     },
     {
-      "id": "aba9921abb4cb388",
-      "title": "Štístko a Poupěnka: …A kde je Poupěnka? Dům kultury",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-22T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/stistko-a-poupenka-a-kde-je-poupenka-2026-11-22",
-      "ticketUrl": "https://kamvusti.cz/akce/stistko-a-poupenka-a-kde-je-poupenka-2026-11-22"
-    },
-    {
       "id": "917918d79ce13e13",
       "title": "Historie zločinu na Teplicku",
       "category": "other",
@@ -133,17 +67,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
-    },
-    {
-      "id": "3e3fcb955dea81a1",
-      "title": "20 let na Sumatře a ve 20 letech na Sumatru Zoologická zahrada Ústí nad Labem",
-      "category": "garden",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-24T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24",
-      "ticketUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24"
     },
     {
       "id": "666e73c4d398e806",
@@ -310,28 +233,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE",
       "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
-    },
-    {
-      "id": "3e7487156e572abb",
-      "title": "Vánoční dílny Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28"
-    },
-    {
-      "id": "4dc6a4d7933892c4",
-      "title": "Papája Veřejný sál Hraničář",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/papaja-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
     },
     {
       "id": "003bccd003167f81",
@@ -768,17 +669,6 @@
       "ticketUrl": "https://kamvusti.cz/akce/nahavla-hele-havel-2026-09-22"
     },
     {
-      "id": "f3f03412b2a41028",
-      "title": "Ostatní Ostatní Výtvarná soutěž: Vánoční bytosti . – . Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-10-01T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01",
-      "ticketUrl": "https://kamvusti.cz/akce/vytvarna-soutez-vanocni-bytosti-2026-10-01"
-    },
-    {
       "id": "6b28ed128fc3ef84",
       "title": "Výstava Výstava: Architektura Ústí nad Labem 1845 - 1900 . – . Zámek Krásné Březno",
       "category": "other",
@@ -810,6 +700,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08",
       "ticketUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08"
+    },
+    {
+      "id": "b354911a935531b6",
+      "title": "Výstava Výstava: 175 Let Železnice Praha - Drážďany . – . Oblastní muzeum v Ústí nad Labem",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-10-21T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vystava-175-let-zeleznice-praha-drazdany-2026-10-21",
+      "ticketUrl": "https://kamvusti.cz/akce/vystava-175-let-zeleznice-praha-drazdany-2026-10-21"
     }
   ],
   "sources": [
