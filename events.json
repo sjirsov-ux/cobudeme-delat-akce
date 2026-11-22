@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-21T06:02:06.207666+01:00",
+  "updatedAt": "2026-11-22T06:05:37.632159+01:00",
   "events": [
-    {
-      "id": "51cd7a3cac1e3290",
-      "title": "1. ABONENTNÍ KONCERT CYKLU D",
-      "category": "concert",
-      "venue": "Dům kultury - Koncertní sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-21T10:30:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-d-3/"
-    },
-    {
-      "id": "150339cb570185d1",
-      "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
-      "category": "other",
-      "venue": "Dům kultury",
-      "city": "Teplice",
-      "dateStart": "2026-11-21T14:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/komentovane-prohlidky-domu-kultury-40-let-3/"
-    },
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
       "title": "Renne Dang – Trauma Party Tour",
@@ -67,6 +45,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.konzervatorteplice.cz/",
       "ticketUrl": "https://www.konzervatorteplice.cz/"
+    },
+    {
+      "id": "3e3fcb955dea81a1",
+      "title": "20 let na Sumatře a ve 20 letech na Sumatru Zoologická zahrada Ústí nad Labem",
+      "category": "garden",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-24T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24",
+      "ticketUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24"
     },
     {
       "id": "666e73c4d398e806",
@@ -233,6 +222,28 @@
       "timeUnknown": true,
       "sourceUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE",
       "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
+    },
+    {
+      "id": "3e7487156e572abb",
+      "title": "Vánoční dílny Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28"
+    },
+    {
+      "id": "4dc6a4d7933892c4",
+      "title": "Papája Veřejný sál Hraničář",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/papaja-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
     },
     {
       "id": "003bccd003167f81",
