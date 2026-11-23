@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:05:37.632159+01:00",
+  "updatedAt": "2026-11-23T06:27:47.981112+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -12,17 +12,6 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
-    },
-    {
-      "id": "917918d79ce13e13",
-      "title": "Historie zločinu na Teplicku",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-23T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/historie-zlocinu-na-teplicku",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/historie-zlocinu-na-teplicku"
     },
     {
       "id": "6aedc3ebb58ffa6e",
@@ -246,6 +235,17 @@
       "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
     },
     {
+      "id": "6a6c766d88132eb6",
+      "title": "Advent v zoo Zoologická zahrada Ústí nad Labem",
+      "category": "garden",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28",
+      "ticketUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28"
+    },
+    {
       "id": "003bccd003167f81",
       "title": "KOMENTOVANÉ PROHLÍDKY DOMU KULTURY",
       "category": "other",
@@ -266,6 +266,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.teplice.cz/",
       "ticketUrl": "https://www.teplice.cz/"
+    },
+    {
+      "id": "02fa9dc2abd31a64",
+      "title": "Rozsvícení Vánočního Stromu na Hřišti TJ Mojžíř T.J. Mojžíř",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-29T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/rozsviceni-vanocniho-stromu-na-hristi-tj-mojzir-2026-11-29",
+      "ticketUrl": "https://kamvusti.cz/akce/rozsviceni-vanocniho-stromu-na-hristi-tj-mojzir-2026-11-29"
     },
     {
       "id": "bf5f936d1c007e81",
