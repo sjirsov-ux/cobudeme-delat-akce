@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:27:47.981112+01:00",
+  "updatedAt": "2026-11-24T06:16:22.355311+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -12,61 +12,6 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
-    },
-    {
-      "id": "6aedc3ebb58ffa6e",
-      "title": "MENOPAUZA? NENÍ PAUZA!",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-23T17:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/menopauza-neni-pauza/"
-    },
-    {
-      "id": "60269dee03993a78",
-      "title": "Definice .....",
-      "category": "other",
-      "venue": "Zahradní dům",
-      "city": "Teplice",
-      "dateStart": "2026-11-24T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.konzervatorteplice.cz/",
-      "ticketUrl": "https://www.konzervatorteplice.cz/"
-    },
-    {
-      "id": "3e3fcb955dea81a1",
-      "title": "20 let na Sumatře a ve 20 letech na Sumatru Zoologická zahrada Ústí nad Labem",
-      "category": "garden",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-24T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24",
-      "ticketUrl": "https://kamvusti.cz/akce/20-let-na-sumatre-a-ve-20-letech-na-sumatru-2026-11-24"
-    },
-    {
-      "id": "666e73c4d398e806",
-      "title": "Čtenářský klub: Knihotání Knihovna Ústeckého kraje",
-      "category": "party",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-24T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ctenarsky-klub-knihotani-2026-10-20",
-      "ticketUrl": "https://kamvusti.cz/akce/ctenarsky-klub-knihotani-2026-10-20"
-    },
-    {
-      "id": "2fa005b4c53cdeef",
-      "title": "Schichtova epopej Oblastní muzeum v Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-24T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/schichtova-epopej-2026-11-24",
-      "ticketUrl": "https://kamvusti.cz/akce/schichtova-epopej-2026-11-24"
     },
     {
       "id": "71d99e7d1c68c396",
@@ -213,6 +158,18 @@
       "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
     },
     {
+      "id": "1760eb601b56c747",
+      "title": "Betlémy",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-28T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
+      "ticketUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
+      "dateEnd": "2027-01-06T00:00:00+01:00"
+    },
+    {
       "id": "3e7487156e572abb",
       "title": "Vánoční dílny Knihovna Ústeckého kraje",
       "category": "other",
@@ -313,6 +270,18 @@
       "dateEnd": "2027-01-03T00:00:00+01:00"
     },
     {
+      "id": "ba8b977618d543ac",
+      "title": "Mýdlárna U Zámku",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.mydlarnauzamku.cz/",
+      "ticketUrl": "https://www.mydlarnauzamku.cz/",
+      "dateEnd": "2027-01-04T00:00:00+01:00"
+    },
+    {
       "id": "05eea4bcf1c5212f",
       "title": "Bohosudovské sklepení",
       "category": "other",
@@ -323,6 +292,17 @@
       "sourceUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "ticketUrl": "https://bohosudovskesklepeni.cz/certoviny",
       "dateEnd": "2026-12-31T00:00:00+01:00"
+    },
+    {
+      "id": "979bca79039e4288",
+      "title": "Ústecké Vánoce 2026 Lidické Náměstí",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/ustecke-vanoce-2026-2026-12-01-ca3fa",
+      "ticketUrl": "https://kamvusti.cz/akce/ustecke-vanoce-2026-2026-12-01-ca3fa"
     },
     {
       "id": "c9b5d5c9a15a44a2",
@@ -514,6 +494,17 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/bara-polakova-nehy26/"
     },
     {
+      "id": "1b03aec0ba98ba3b",
+      "title": "Vánoce s Arkádií",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-10T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.arkadie.cz/",
+      "ticketUrl": "https://www.arkadie.cz/"
+    },
+    {
       "id": "465389ee7f7824ae",
       "title": "3. ABONENTNÍ KONCERT CYKLU A",
       "category": "concert",
@@ -545,6 +536,39 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.ddmteplice.cz/akce/4041-pernikova-chaloupka-ii",
       "ticketUrl": "https://www.ddmteplice.cz/akce/4041-pernikova-chaloupka-ii"
+    },
+    {
+      "id": "09c433061c39b26b",
+      "title": "Winter Milada run",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://miladatour.cz/milada-run/",
+      "ticketUrl": "https://miladatour.cz/milada-run/"
+    },
+    {
+      "id": "756f8db0e3fe852a",
+      "title": "Vánoce s AGC",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-13T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.agc-processing.cz/",
+      "ticketUrl": "https://www.agc-processing.cz/"
+    },
+    {
+      "id": "e4a29133e3075846",
+      "title": "Vánoční Altán",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-13T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.mala-pariz.cz/",
+      "ticketUrl": "https://www.mala-pariz.cz/"
     },
     {
       "id": "4cfea8006898d2af",
@@ -600,6 +624,18 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-c-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/1-abonentni-koncert-cyklu-c-6/"
+    },
+    {
+      "id": "49b3a20012059773",
+      "title": "16. Vánoční trhy",
+      "category": "garden",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-18T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.facebook.com/LionsClubTepliceLadies/?locale=cs_CZ",
+      "ticketUrl": "https://www.facebook.com/LionsClubTepliceLadies/?locale=cs_CZ",
+      "dateEnd": "2026-12-20T00:00:00+01:00"
     },
     {
       "id": "faa7cbaf190dc06d",
@@ -678,6 +714,18 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/novorocni-koncert-scf-6/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/novorocni-koncert-scf-6/"
+    },
+    {
+      "id": "7feaaa6e518e49b4",
+      "title": "Velká cena Teplice",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2027-01-23T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.halateplice.cz/",
+      "ticketUrl": "https://www.halateplice.cz/",
+      "dateEnd": "2027-01-24T00:00:00+01:00"
     },
     {
       "id": "5d78dddef0330419",
