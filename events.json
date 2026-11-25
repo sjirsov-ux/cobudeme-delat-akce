@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:16:22.355311+01:00",
+  "updatedAt": "2026-11-25T06:19:13.637234+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -12,28 +12,6 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
-    },
-    {
-      "id": "71d99e7d1c68c396",
-      "title": "DEFbrass",
-      "category": "other",
-      "venue": "Zahradní dům",
-      "city": "Teplice",
-      "dateStart": "2026-11-24T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/defbrass-definice-pravych-zestovych-vanoc/"
-    },
-    {
-      "id": "bfb6a6495f9e262f",
-      "title": "Adventní pohádky pro dospělé",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-25T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/adventni-pohadky11-25-2026",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/adventni-pohadky11-25-2026"
     },
     {
       "id": "ab6ca50bc974be9c",
@@ -170,17 +148,6 @@
       "dateEnd": "2027-01-06T00:00:00+01:00"
     },
     {
-      "id": "3e7487156e572abb",
-      "title": "Vánoční dílny Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/vanocni-dilny-2026-11-28"
-    },
-    {
       "id": "4dc6a4d7933892c4",
       "title": "Papája Veřejný sál Hraničář",
       "category": "other",
@@ -226,7 +193,7 @@
     },
     {
       "id": "02fa9dc2abd31a64",
-      "title": "Rozsvícení Vánočního Stromu na Hřišti TJ Mojžíř T.J. Mojžíř",
+      "title": "Rozsvícení vánočního stromu na Hřišti TJ Mojžíř T.J. Mojžíř",
       "category": "other",
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
@@ -280,6 +247,18 @@
       "sourceUrl": "https://www.mydlarnauzamku.cz/",
       "ticketUrl": "https://www.mydlarnauzamku.cz/",
       "dateEnd": "2027-01-04T00:00:00+01:00"
+    },
+    {
+      "id": "5e74cc6329e89c95",
+      "title": "Čaj života",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.cajzivota.cz/",
+      "ticketUrl": "https://www.cajzivota.cz/",
+      "dateEnd": "2026-12-31T00:00:00+01:00"
     },
     {
       "id": "05eea4bcf1c5212f",
@@ -395,6 +374,28 @@
       "dateEnd": "2026-12-06T00:00:00+01:00"
     },
     {
+      "id": "8c94a3d477eca6f5",
+      "title": "Mikulášské pohádky - Sváťovo Dividlo Zámek Trmice",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-04T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/mikulasske-pohadky-svatovo-dividlo-2026-12-04",
+      "ticketUrl": "https://kamvusti.cz/akce/mikulasske-pohadky-svatovo-dividlo-2026-12-04"
+    },
+    {
+      "id": "cc1484e208b4b2d7",
+      "title": "Kristýna Císařová: Glitter & Grief Dům kultury",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-04T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/kristyna-cisarova-glitter-grief-2026-10-14",
+      "ticketUrl": "https://kamvusti.cz/akce/kristyna-cisarova-glitter-grief-2026-10-14"
+    },
+    {
       "id": "361c8dd83d11c823",
       "title": "BECKHAM",
       "category": "other",
@@ -415,6 +416,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.botanickateplice.cz/",
       "ticketUrl": "https://www.botanickateplice.cz/"
+    },
+    {
+      "id": "cf112d0e0df42a9f",
+      "title": "Design Depo Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-05T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/design-depo-2026-12-05",
+      "ticketUrl": "https://kamvusti.cz/akce/design-depo-2026-12-05"
     },
     {
       "id": "8e6523e2009469bc",
