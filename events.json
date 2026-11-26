@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T06:19:13.637234+01:00",
+  "updatedAt": "2026-11-26T06:20:40.671742+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -12,50 +12,6 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
-    },
-    {
-      "id": "ab6ca50bc974be9c",
-      "title": "SOUBOJ KLAVÍRŮ",
-      "category": "other",
-      "venue": "Krušnohorské divadlo - Velký sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-25T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/souboj-klaviru-brzobohaty-brousek/"
-    },
-    {
-      "id": "2a6d8281df413a60",
-      "title": "Karel Kryl",
-      "category": "other",
-      "venue": "Kulturní centrum Zahálka",
-      "city": "Teplice",
-      "dateStart": "2026-11-26T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ",
-      "ticketUrl": "https://www.facebook.com/zahalkateplice/?locale=cs_CZ"
-    },
-    {
-      "id": "404f73846db5cb17",
-      "title": "Ptačí songy",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-26T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy",
-      "ticketUrl": "https://www.knihovna-teplice.cz/akce/ptaci-songy"
-    },
-    {
-      "id": "9ff1dfd8e5321ee8",
-      "title": "Čtenářský klub: Čtu, tedy jsem Knihovna Ústeckého kraje",
-      "category": "party",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-26T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ctenarsky-klub-ctu-tedy-jsem-2026-11-26",
-      "ticketUrl": "https://kamvusti.cz/akce/ctenarsky-klub-ctu-tedy-jsem-2026-11-26"
     },
     {
       "id": "5a54b4a240a71971",
@@ -146,17 +102,6 @@
       "sourceUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
       "ticketUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
       "dateEnd": "2027-01-06T00:00:00+01:00"
-    },
-    {
-      "id": "4dc6a4d7933892c4",
-      "title": "Papája Veřejný sál Hraničář",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/papaja-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/papaja-2026-11-28"
     },
     {
       "id": "6a6c766d88132eb6",
@@ -418,6 +363,17 @@
       "ticketUrl": "https://www.botanickateplice.cz/"
     },
     {
+      "id": "ca4e303a785b05a8",
+      "title": "Mikuláš v zoo Zoologická zahrada Ústí nad Labem",
+      "category": "garden",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-05T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/mikulas-v-zoo-2026-12-05",
+      "ticketUrl": "https://kamvusti.cz/akce/mikulas-v-zoo-2026-12-05"
+    },
+    {
       "id": "cf112d0e0df42a9f",
       "title": "Design Depo Knihovna Ústeckého kraje",
       "category": "other",
@@ -515,6 +471,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.arkadie.cz/",
       "ticketUrl": "https://www.arkadie.cz/"
+    },
+    {
+      "id": "5e587ac82f8b31e0",
+      "title": "Ženská práva jsou lidská práva Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-10T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/zenska-prava-jsou-lidska-prava-2026-12-10",
+      "ticketUrl": "https://kamvusti.cz/akce/zenska-prava-jsou-lidska-prava-2026-12-10"
     },
     {
       "id": "465389ee7f7824ae",
