@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:20:40.671742+01:00",
+  "updatedAt": "2026-11-27T06:19:58.179380+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -12,39 +12,6 @@
       "sourceUrl": "https://www.ksul.cz/termin/6513/",
       "ticketUrl": "https://www.aragency.cz/predprodej/ar-agency/renne-dang-usti-nad-labem",
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
-    },
-    {
-      "id": "5a54b4a240a71971",
-      "title": "Zdobení adventních věnců",
-      "category": "other",
-      "venue": "Místo konání DDM",
-      "city": "Teplice",
-      "dateStart": "2026-11-26T17:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4022-zdobeni-adventnich-vencu-akce-pro-rodice-s-detmi"
-    },
-    {
-      "id": "a9db363f01791f75",
-      "title": "2. ABONENTNÍ KONCERT CYKLU B",
-      "category": "concert",
-      "venue": "Dům kultury - Koncertní sál",
-      "city": "Teplice",
-      "dateStart": "2026-11-26T19:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/2-abonentni-koncert-cyklu-b-6/"
-    },
-    {
-      "id": "78ea7f6b0238fc51",
-      "title": "Vánoční jarmark",
-      "category": "garden",
-      "venue": "regionální knihovna",
-      "city": "Teplice",
-      "dateStart": "2026-11-27T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.knihovna-teplice.cz/",
-      "ticketUrl": "https://www.knihovna-teplice.cz/"
     },
     {
       "id": "15c2b03742454f02",
@@ -135,6 +102,18 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.teplice.cz/",
       "ticketUrl": "https://www.teplice.cz/"
+    },
+    {
+      "id": "19e920068a9ee01c",
+      "title": "Teplické Vánoce",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-11-29T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.teplice.cz/",
+      "ticketUrl": "https://www.teplice.cz/",
+      "dateEnd": "2026-12-23T00:00:00+01:00"
     },
     {
       "id": "02fa9dc2abd31a64",
@@ -251,17 +230,6 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/vanocni-akademie/"
     },
     {
-      "id": "590437d3749f34e4",
-      "title": "Estonsko - Země Hradů a Dávných Eposů Informační Středisko Města Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-12-02T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/estonsko-zeme-hradu-a-davnych-eposu-2026-12-02",
-      "ticketUrl": "https://kamvusti.cz/akce/estonsko-zeme-hradu-a-davnych-eposu-2026-12-02"
-    },
-    {
       "id": "cfcb79dff76c8dc0",
       "title": "AKADEMIE ZŠ MARŠOVSKÁ",
       "category": "other",
@@ -361,6 +329,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.botanickateplice.cz/",
       "ticketUrl": "https://www.botanickateplice.cz/"
+    },
+    {
+      "id": "c14ffa4015d229b9",
+      "title": "Mikulášská jízda",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-05T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.mdteplice.cz/component/content/article/mikulasska-jizda-5-12-2026?catid=8&Itemid=101",
+      "ticketUrl": "https://www.mdteplice.cz/component/content/article/mikulasska-jizda-5-12-2026?catid=8&Itemid=101"
     },
     {
       "id": "ca4e303a785b05a8",
@@ -528,6 +507,17 @@
       "ticketUrl": "https://miladatour.cz/milada-run/"
     },
     {
+      "id": "3872654934f738c5",
+      "title": "Zkoušky na zkoušku Knihovna Ústeckého kraje",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
+      "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10"
+    },
+    {
       "id": "756f8db0e3fe852a",
       "title": "Vánoce s AGC",
       "category": "other",
@@ -548,6 +538,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://www.mala-pariz.cz/",
       "ticketUrl": "https://www.mala-pariz.cz/"
+    },
+    {
+      "id": "ca2e788bc21eb297",
+      "title": "Vánoční otevřený ateliér MatAdel",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2026-12-13T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.matadelceramic.cz/",
+      "ticketUrl": "https://www.matadelceramic.cz/"
     },
     {
       "id": "4cfea8006898d2af",
@@ -749,17 +750,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08",
       "ticketUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08"
-    },
-    {
-      "id": "b354911a935531b6",
-      "title": "Výstava Výstava: 175 Let Železnice Praha - Drážďany . – . Oblastní muzeum v Ústí nad Labem",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-10-21T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/vystava-175-let-zeleznice-praha-drazdany-2026-10-21",
-      "ticketUrl": "https://kamvusti.cz/akce/vystava-175-let-zeleznice-praha-drazdany-2026-10-21"
     }
   ],
   "sources": [
