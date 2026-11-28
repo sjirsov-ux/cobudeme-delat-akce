@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:19:58.179380+01:00",
+  "updatedAt": "2026-11-28T06:09:32.012445+01:00",
   "events": [
     {
       "id": "renne-dang-trauma-party-tour-usti-2026-11-21",
@@ -14,28 +14,6 @@
       "description": "VIP Meet & Greet od 19:00, otevření dveří ve 20:00, Renne Dang ve 22:00 a afterparty s Tonym Terrou od 23:00. Vstup 15+ (mladší v doprovodu osoby 18+)."
     },
     {
-      "id": "15c2b03742454f02",
-      "title": "Výroba krmítek",
-      "category": "other",
-      "venue": "Místo konání DDM",
-      "city": "Teplice",
-      "dateStart": "2026-11-27T15:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek",
-      "ticketUrl": "https://www.ddmteplice.cz/akce/4023-vyroba-krmitek"
-    },
-    {
-      "id": "fc701300bcda0bbe",
-      "title": "PLES ZUŠ – 100 LET",
-      "category": "party",
-      "venue": "Krušnohorské divadlo",
-      "city": "Teplice",
-      "dateStart": "2026-11-27T20:00:00+01:00",
-      "timeUnknown": false,
-      "sourceUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/",
-      "ticketUrl": "https://www.dkteplice.cz/udalost/ples-zus-100-let/"
-    },
-    {
       "id": "teige-dj-pavel-bidlo-usti-2026-11-27",
       "title": "teige + DJ Pavel Bidlo",
       "category": "party",
@@ -46,40 +24,6 @@
       "sourceUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
       "ticketUrl": "https://hranicar-usti.cz/program/teige-dj-pavel-bidlo/",
       "description": "Koncert kapely teige a navazující party s DJ Pavlem Bidlem. Oficiální program Hraničáře uvádí začátek ve 20:30."
-    },
-    {
-      "id": "2cb9233e71897e3f",
-      "title": "Vánoční jarmark",
-      "category": "garden",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE",
-      "ticketUrl": "https://seniorcentrum-pohoda.cz/?gad_source=1&gad_campaignid=1474524681&gbraid=0AAAAADEIqlGZp8xxLPEb0Owtbh5G0n5LY&gclid=EAIaIQobChMI8--ossP6lwMVz46DBx1BryGdEAAYASAAEgL5gvD_BwE"
-    },
-    {
-      "id": "1760eb601b56c747",
-      "title": "Betlémy",
-      "category": "other",
-      "venue": "Teplice",
-      "city": "Teplice",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
-      "ticketUrl": "https://www.jirkov.cz/volny-cas/kalendar-akci-2/betlemy-v-galerii-jirkov-7244_1358cs.html",
-      "dateEnd": "2027-01-06T00:00:00+01:00"
-    },
-    {
-      "id": "6a6c766d88132eb6",
-      "title": "Advent v zoo Zoologická zahrada Ústí nad Labem",
-      "category": "garden",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-11-28T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28",
-      "ticketUrl": "https://kamvusti.cz/akce/advent-v-zoo-2026-11-28"
     },
     {
       "id": "003bccd003167f81",
@@ -125,6 +69,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/rozsviceni-vanocniho-stromu-na-hristi-tj-mojzir-2026-11-29",
       "ticketUrl": "https://kamvusti.cz/akce/rozsviceni-vanocniho-stromu-na-hristi-tj-mojzir-2026-11-29"
+    },
+    {
+      "id": "b3d3311cb9b6a0bc",
+      "title": "Pokáč na Ústeckých Vánocích Lidické Náměstí",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-11-29T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/pokac-na-usteckych-vanocich-2026-11-29",
+      "ticketUrl": "https://kamvusti.cz/akce/pokac-na-usteckych-vanocich-2026-11-29"
     },
     {
       "id": "bf5f936d1c007e81",
@@ -197,17 +152,6 @@
       "dateEnd": "2026-12-31T00:00:00+01:00"
     },
     {
-      "id": "979bca79039e4288",
-      "title": "Ústecké Vánoce 2026 Lidické Náměstí",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-12-01T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/ustecke-vanoce-2026-2026-12-01-ca3fa",
-      "ticketUrl": "https://kamvusti.cz/akce/ustecke-vanoce-2026-2026-12-01-ca3fa"
-    },
-    {
       "id": "c9b5d5c9a15a44a2",
       "title": "KineDok: Je to ve hvězdách Knihovna Ústeckého kraje",
       "category": "other",
@@ -219,6 +163,17 @@
       "ticketUrl": "https://kamvusti.cz/akce/kinedok-je-to-ve-hvezdach-2026-12-01"
     },
     {
+      "id": "910adc6b47a3fdd5",
+      "title": "Zimnice na Ústeckých Vánocích Lidické Náměstí",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-01T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/zimnice-na-usteckych-vanocich-2026-12-13",
+      "ticketUrl": "https://kamvusti.cz/akce/zimnice-na-usteckych-vanocich-2026-12-13"
+    },
+    {
       "id": "71496a2a7de9f50c",
       "title": "VÁNOČNÍ AKADEMIE",
       "category": "other",
@@ -228,6 +183,17 @@
       "timeUnknown": false,
       "sourceUrl": "https://www.dkteplice.cz/udalost/vanocni-akademie/",
       "ticketUrl": "https://www.dkteplice.cz/udalost/vanocni-akademie/"
+    },
+    {
+      "id": "ac84ae25bd68a35a",
+      "title": "Beata Bocek na Ústeckých Vánocích Lidické Náměstí",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-02T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/beata-bocek-na-usteckych-vanocich-2026-12-02",
+      "ticketUrl": "https://kamvusti.cz/akce/beata-bocek-na-usteckych-vanocich-2026-12-02"
     },
     {
       "id": "cfcb79dff76c8dc0",
@@ -353,15 +319,26 @@
       "ticketUrl": "https://kamvusti.cz/akce/mikulas-v-zoo-2026-12-05"
     },
     {
-      "id": "cf112d0e0df42a9f",
-      "title": "Design Depo Knihovna Ústeckého kraje",
+      "id": "133b41cb21c465a1",
+      "title": "WILDWOOD: Tajemství zakázaného lesa Veřejný sál Hraničář",
       "category": "other",
       "venue": "Ústí nad Labem",
       "city": "Ústí nad Labem",
       "dateStart": "2026-12-05T00:00:00+01:00",
       "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/design-depo-2026-12-05",
-      "ticketUrl": "https://kamvusti.cz/akce/design-depo-2026-12-05"
+      "sourceUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07",
+      "ticketUrl": "https://kamvusti.cz/akce/wildwood-tajemstvi-zakazaneho-lesa-2026-11-07"
+    },
+    {
+      "id": "17a131fdba916374",
+      "title": "Divadlo Studna: Mikuláš, anděl, čert na chůdách & Andělská pošta na Ústeckých Vánocích Lidické Náměstí",
+      "category": "theater",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2026-12-05T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/divadlo-studna-mikulas-andel-cert-na-chudach-andelska-posta-2026-12-05",
+      "ticketUrl": "https://kamvusti.cz/akce/divadlo-studna-mikulas-andel-cert-na-chudach-andelska-posta-2026-12-05"
     },
     {
       "id": "8e6523e2009469bc",
@@ -452,17 +429,6 @@
       "ticketUrl": "https://www.arkadie.cz/"
     },
     {
-      "id": "5e587ac82f8b31e0",
-      "title": "Ženská práva jsou lidská práva Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-12-10T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/zenska-prava-jsou-lidska-prava-2026-12-10",
-      "ticketUrl": "https://kamvusti.cz/akce/zenska-prava-jsou-lidska-prava-2026-12-10"
-    },
-    {
       "id": "465389ee7f7824ae",
       "title": "3. ABONENTNÍ KONCERT CYKLU A",
       "category": "concert",
@@ -505,17 +471,6 @@
       "timeUnknown": true,
       "sourceUrl": "https://miladatour.cz/milada-run/",
       "ticketUrl": "https://miladatour.cz/milada-run/"
-    },
-    {
-      "id": "3872654934f738c5",
-      "title": "Zkoušky na zkoušku Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2026-12-12T00:00:00+01:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10",
-      "ticketUrl": "https://kamvusti.cz/akce/zkousky-na-zkousku-2026-11-10"
     },
     {
       "id": "756f8db0e3fe852a",
@@ -696,6 +651,18 @@
       "ticketUrl": "https://www.dkteplice.cz/udalost/novorocni-koncert-scf-6/"
     },
     {
+      "id": "788348b3d44732b4",
+      "title": "Zpět do dětských let - výstava",
+      "category": "other",
+      "venue": "Teplice",
+      "city": "Teplice",
+      "dateStart": "2027-01-12T00:00:00+01:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://www.botanickateplice.cz/akce/vystava-obrazu-od-lenky-prochazkove-796",
+      "ticketUrl": "https://www.botanickateplice.cz/akce/vystava-obrazu-od-lenky-prochazkove-796",
+      "dateEnd": "2027-06-30T00:00:00+02:00"
+    },
+    {
       "id": "7feaaa6e518e49b4",
       "title": "Velká cena Teplice",
       "category": "other",
@@ -706,17 +673,6 @@
       "sourceUrl": "https://www.halateplice.cz/",
       "ticketUrl": "https://www.halateplice.cz/",
       "dateEnd": "2027-01-24T00:00:00+01:00"
-    },
-    {
-      "id": "5d78dddef0330419",
-      "title": "Výstava NaHavla: Hele, Havel! . – . Knihovna Ústeckého kraje",
-      "category": "other",
-      "venue": "Ústí nad Labem",
-      "city": "Ústí nad Labem",
-      "dateStart": "2027-09-22T00:00:00+02:00",
-      "timeUnknown": true,
-      "sourceUrl": "https://kamvusti.cz/akce/nahavla-hele-havel-2026-09-22",
-      "ticketUrl": "https://kamvusti.cz/akce/nahavla-hele-havel-2026-09-22"
     },
     {
       "id": "6b28ed128fc3ef84",
@@ -750,6 +706,17 @@
       "timeUnknown": true,
       "sourceUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08",
       "ticketUrl": "https://kamvusti.cz/akce/jazz-nad-labem-30-let-2026-10-08"
+    },
+    {
+      "id": "ae4187654dadc3f1",
+      "title": "Výstava Kristýna Císařová: Glitter & Grief . – . Dům kultury",
+      "category": "other",
+      "venue": "Ústí nad Labem",
+      "city": "Ústí nad Labem",
+      "dateStart": "2027-10-14T00:00:00+02:00",
+      "timeUnknown": true,
+      "sourceUrl": "https://kamvusti.cz/akce/kristyna-cisarova-glitter-grief-2026-10-14",
+      "ticketUrl": "https://kamvusti.cz/akce/kristyna-cisarova-glitter-grief-2026-10-14"
     }
   ],
   "sources": [
